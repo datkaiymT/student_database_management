@@ -1,0 +1,24 @@
+ID: 222100, Name: Kabir Humayun, Major: ISE, Email: humayunkabir@inha.ac.kr, Phone: +82-47-1804-5475, Password: BmSBJ=EE)E, Courses: ISE5999, ISE6079, ISE5089, ISE2135, ISE9051, ISE5152
+ID: 222101, Name: Serrao Pruthvi Loy Rozario, Major: ISE, Email: serrao.pruthvi.loy.rozario@inha.ac.kr, Phone: +82-36-6455-8373, Password: .T's>j:E9V, Courses: ISE3411, ISE7733, ISE8631, ISE5742, ISE4948, ISE2213
+ID: 222102, Name: Vivek Kumar, Major: ISE, Email: vivek.kumar@inha.ac.kr, Phone: +82-88-9619-9155, Password: Q:-}LC4Ba^, Courses: ISE7274, ISE5998, ISE8742, ISE9304, ISE3132, ISE7963
+ID: 222103, Name: Kakani Vijay, Major: ISE, Email: kakani.vijay@inha.ac.kr, Phone: +82-77-5769-1821, Password: g}pCQs#`@l, Courses: ISE9054, ISE9537, ISE2247, ISE9474, ISE3816, ISE8773
+ID: 222104, Name: Mehdi Pirahandeh, Major: ISE, Email: mehdi.pirahandeh@inha.ac.kr, Phone: +82-20-1751-2513, Password: +KOP+(, Courses: ISE4384, ISE6951, ISE5914, ISE6257, ISE8918, ISE1895
+ID: 222105, Name: Shafenoor, Major: ISE, Email: shafenoor@inha.ac.kr, Phone: +82-47-3811-6664, Password: EwsUKFI3AH, Courses: ISE5138, ISE6107, ISE5246, ISE7965, ISE4961, ISE2407
+ID: 222106, Name: Jung Minsoo, Major: ISE, Email: jung.minsoo@inha.ac.kr, Phone: +82-29-6336-9218, Password: I%:w@$IS|R, Courses: ISE6323, ISE6575, ISE9771, ISE1314
+ID: 222107, Name: Kang Yuna, Major: ISE, Email: kang.yuna@inha.ac.kr, Phone: +82-14-8606-6837, Password: =9-2k0#lIG, Courses: ISE9129, ISE6149, ISE6707, ISE9999
+ID: 222108, Name: Lee Seoyeon, Major: IBT, Email: lee.seoyeon@inha.ac.kr, Phone: +82-37-8564-8595, Password: %umF28(tLq, Courses: IBT4917, IBT3566, IBT6254, IBT9623, IBT7821, IBT5629
+ID: 222109, Name: Choi Eunji, Major: IBT, Email: choi.eunji@inha.ac.kr, Phone: +82-28-1317-9106, Password: uhg*y8Y<fz, Courses: IBT2841, IBT1964, IBT1442, IBT6284, IBT3185, IBT2587
+ID: 222110, Name: Kang Daehyun, Major: IBT, Email: kang.daehyun@inha.ac.kr, Phone: +82-80-4233-8358, Password: "MRVf4d#Yh, Courses: IBT6304, IBT7177, IBT5300, IBT6298, IBT8845, IBT4730
+ID: 222111, Name: Cho Jihoon, Major: IBT, Email: cho.jihoon@inha.ac.kr, Phone: +82-83-7370-5956, Password: .-'>-x(.g>, Courses: IBT2984, IBT4457, IBT8285, IBT2920, IBT4046, IBT9477
+ID: 222112, Name: Kim Minsoo, Major: IBT, Email: kim.minsoo@inha.ac.kr, Phone: +82-58-7816-8595, Password: ?LUlGo@oeu, Courses: IBT1246, IBT4296, IBT3354, IBT8812, IBT6807, IBT6396
+ID: 222113, Name: Yoon Minsoo, Major: IBT, Email: yoon.minsoo@inha.ac.kr, Phone: +82-18-9701-9417, Password: OGeQ+x"39v, Courses: IBT8352, IBT9635, IBT7696, IBT6033, IBT7325, IBT7605
+ID: 222114, Name: Kim Hyunwoo, Major: IBT, Email: kim.hyunwoo@inha.ac.kr, Phone: +82-49-1898-1155, Password: hVqJOQUsc}, Courses: IBT1988, IBT5886, IBT7452, IBT7033
+ID: 222115, Name: Yoon Hyunwoo, Major: IBT, Email: yoon.hyunwoo@inha.ac.kr, Phone: +82-62-9454-1649, Password: #i82$?14Y%, Courses: IBT6790, IBT9949, IBT8316, IBT6895
+ID: 222116, Name: Yoon Seoyeon, Major: KLC, Email: yoon.seoyeon@inha.ac.kr, Phone: +82-86-1466-9089, Password: +J, Courses: KLC9827, KLC1710, KLC3328, KLC5623, KLC6913, KLC3209
+ID: 222117, Name: Choi Daehyun, Major: KLC, Email: choi.daehyun@inha.ac.kr, Phone: +82-71-4003-2634, Password: I7&}crlzW;, Courses: KLC3691, KLC3598, KLC7087, KLC4636, KLC7054, KLC2252
+ID: 222118, Name: Cho Yuna, Major: KLC, Email: cho.yuna@inha.ac.kr, Phone: +82-55-9441-7517, Password: g_dw?$_c_[, Courses: KLC5038, KLC9863, KLC4191, KLC5427, KLC3485, KLC7223
+ID: 222119, Name: Kim Hyunwoo, Major: KLC, Email: kim.hyunwoo@inha.ac.kr, Phone: +82-10-7168-9316, Password: 5@v(Zj~&X}, Courses: KLC2191, KLC3702, KLC7471, KLC9112, KLC9953, KLC1446
+ID: 222120, Name: Choi Daehyun, Major: KLC, Email: choi.daehyun@inha.ac.kr, Phone: +82-25-9518-5718, Password: `=_R]A`ug0, Courses: KLC4020, KLC8635, KLC2295, KLC7513, KLC4751, KLC7769
+ID: 222121, Name: Kim Eunji, Major: KLC, Email: kim.eunji@inha.ac.kr, Phone: +82-31-2384-7241, Password: YWsx, Courses: KLC9928, KLC7445, KLC9461, KLC4768, KLC2635, KLC7539
+ID: 222122, Name: Lee Daehyun, Major: KLC, Email: lee.daehyun@inha.ac.kr, Phone: +82-67-8528-1071, Password: EW4Q\[-RT4, Courses: KLC9419, KLC5486, KLC9964, KLC2875
+ID: 222123, Name: Jung Minsoo, Major: KLC, Email: jung.minsoo@inha.ac.kr, Phone: +82-46-9077-9208, Password: `>@yUYVq=P, Courses: KLC3121, KLC8952, KLC5654, KLC2175

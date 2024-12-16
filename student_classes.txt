@@ -1,0 +1,485 @@
+12200000:Brand Management,Customer Relationship Management,Korean Political History,Power Systems,Renewable Energy Systems,Financial Accounting:3.5,2.5,2.5,1.5,1.0,2.5
+12200001:Economic Policy,Korean Food and Culture,Interpretation Skills,Advanced Korean,Business Analytics,Startup Incubation:1.5,1.5,1.5,2.5,4.5,2.5
+12200002:Geotechnical Engineering,Embedded Systems,Marketing Strategies,Power Systems,Real Estate Business,Engineering Economics:1.0,1.0,3.0,3.5,4.0,4.5
+12200003:Database Systems,Korean Philosophy,Korean Arts and Crafts,Structural Analysis,Mechatronics,Introduction to Hangeul:4.0,1.5,3.0,1.0,2.0,4.5
+12200004:E-Commerce,Circuit Analysis,Interpretation Skills,Contemporary Issues in Korea,Korean Diaspora,Power Systems:3.5,1.0,4.0,1.5,2.0,3.5
+12200005:Corporate Social Responsibility,Retail Management,Data Structures,Automobile Engineering,Korean Urban Culture,Artificial Intelligence:1.0,4.5,2.5,4.5,3.5,2.0
+12200006:Korean Urban Culture,Korean Film and Media,Korean Culture and Society,Transportation Engineering,Project Management,Korean Linguistics:4.5,3.0,3.0,3.5,3.0,4.0
+12200007:Thermodynamics,Database Systems,Marketing Strategies,Korean Religion,K-Pop and Korean Wave,Numerical Methods:1.0,4.5,2.5,1.5,2.0,3.5
+12200008:Performance Management,Computer Networks,Introduction to Hangeul,K-Pop and Korean Wave,Korean Diaspora,Nanotechnology:4.0,2.5,2.5,2.5,4.5,1.0
+12200009:Principles of Management,Materials Science,Korean Political History,Economic Policy,Korean Proverbs and Idioms,Korean Ceramics:3.5,2.0,4.0,1.0,1.5,3.0
+12200010:Environmental Engineering,Project Management,Korean Traditions,Corporate Social Responsibility,Blockchain Technology,International Trade:2.0,4.5,3.5,2.5,3.0,3.0
+12200011:Contemporary Issues in Korea,Korean Listening and Speaking,Automobile Engineering,Market Research,Korean Food and Culture,Sales Management:2.5,1.5,1.0,2.0,1.0,2.5
+12200012:Consumer Behavior,Control Systems,Retail Management,Korean Popular Culture,Korean Diaspora,Human Resources Management:3.0,4.0,4.0,2.5,2.0,1.5
+12200013:Korean Philosophy,Operations Management,Corporate Governance,Quantum Computing,Small Business Management,Robotics:1.5,4.5,3.5,3.0,1.5,3.0
+12200014:Concrete Design,Korean Diaspora,Korean Poetry,Korean Listening and Speaking,Engineering Mathematics,Organizational Behavior:2.0,3.0,3.0,4.0,4.5,2.5
+12200015:Korean Grammar,Automobile Engineering,Advanced Korean,Big Data Analysis,Customer Relationship Management,Fluid Mechanics:4.5,3.0,4.0,3.5,4.5,1.0
+12200016:Control Systems,Automobile Engineering,Structural Analysis,Aerodynamics,Managerial Accounting,North and South Korean Relations:3.5,2.0,3.0,2.0,2.5,2.0
+12200017:Engineering Economics,Risk Management,Signal Processing,Korean Listening and Speaking,Supply Chain Management,Business Law:1.5,1.0,1.5,3.5,2.5,4.5
+12200018:Korean Political History,Korean Poetry,Advanced Programming,Korean Listening and Speaking,Robotics,K-Pop and Korean Wave:4.0,1.0,1.0,2.5,1.0,4.5
+12200019:Transportation Engineering,Sales Management,Small Business Management,Venture Capital,Microprocessor Applications,Engineering Economics:2.5,3.5,4.5,2.0,1.0,1.0
+12200020:Korean Technology Culture,K-Pop and Korean Wave,Microprocessor Applications,Korean Grammar,Human Resources Management,Corporate Governance:4.5,2.0,4.0,3.0,1.5,1.0
+12200021:Korean Poetry,Korean Calligraphy,International Business,Control Systems,Sales Management,Korean Diaspora:1.5,3.0,1.0,2.0,3.5,3.5
+12200022:Intermediate Korean,History of Hangeul,Modern Korean Literature,Customer Relationship Management,Brand Management,Advanced Programming:2.5,4.5,3.5,1.5,4.0,2.0
+12200023:Economic Policy,Korean Listening and Speaking,Engineering Economics,Korean Folklore,International Trade,Database Systems:4.5,4.5,4.0,1.0,1.5,2.5
+12200024:Venture Capital,Startup Incubation,Korean Dialects,Distributed Systems,Supply Chain Management,Operations Management:1.5,1.0,4.5,1.5,3.0,2.5
+12200025:Korean Urban Culture,Korean Economic History,Korean Technology Culture,Engineering Ethics,Optimization Techniques,Robotics:3.5,1.5,3.5,3.5,4.5,1.5
+12200026:Digital Logic Design,Crisis Management,Engineering Ethics,Aerodynamics,Leadership Development,Renewable Energy Systems:4.5,1.5,4.0,3.5,1.5,2.0
+12200027:Mechatronics,Translation Studies,Nanotechnology,Intermediate Korean,Korean Theatre,Geotechnical Engineering:1.0,4.0,4.0,2.0,1.5,4.0
+12200028:Korean Grammar,Thermodynamics,Strategic Management,Brand Management,Distributed Systems,Machine Learning:1.5,4.0,1.5,4.5,1.0,2.5
+12200029:Korean Food and Culture,Environmental Engineering,Mechatronics,Korean-English Translation,Nanotechnology,Translation Studies:1.5,1.5,3.0,4.5,1.0,4.5
+12210000:Engineering Physics,Korean Political History,Korean Proverbs and Idioms,Korean Language Basics,Business Law,Korean Theatre:2.0,1.0,2.0,1.5,3.0,3.0
+12210001:Transportation Engineering,Korean History,Renewable Energy Systems,Digital Logic Design,Business Ethics,Leadership Development:1.5,2.0,3.0,4.0,3.5,1.0
+12210002:Operations Management,Korean Reading and Comprehension,Korean Proverbs and Idioms,Digital Logic Design,Korean Women Studies,Intermediate Korean:2.0,1.5,4.0,4.5,2.0,3.0
+12210003:Environmental Engineering,Project Management,Interpretation Skills,Engineering Mathematics,Korean Folklore,Intermediate Korean:1.0,1.0,4.5,1.0,4.5,2.5
+12210004:History of Hangeul,Quantum Computing,Leadership Development,Korean Theatre,Korean Traditional Music,Modern Korean History:1.0,1.5,2.0,4.5,2.5,4.0
+12210005:Brand Management,Market Research,Artificial Intelligence,Marketing Strategies,Circuit Analysis,Corporate Governance:4.0,4.0,2.0,2.0,2.5,2.5
+12210006:Emerging Markets,Engineering Ethics,Korean Economic History,Korean History,Korean Political History,Korean Traditional Music:1.5,3.5,2.0,4.5,2.0,1.5
+12210007:Nanotechnology,Aerodynamics,Strategic Management,Geotechnical Engineering,Small Business Management,Korean Language Basics:4.5,4.0,1.0,3.0,3.0,3.5
+12210008:Korean Language Basics,Korean Diaspora,Innovation in Business,Project Management,Teaching Korean as a Second Language,Digital Marketing:2.0,4.5,4.5,1.0,2.0,1.0
+12210009:Transportation Engineering,Quantum Computing,Engineering Economics,Big Data Analysis,Human Resources Management,Sustainability in Business:1.5,2.0,1.5,3.0,3.0,2.0
+12210010:Operations Management,Computer Networks,Renewable Energy Systems,Sustainability in Business,Engineering Economics,Small Business Management:2.5,3.5,3.5,3.0,3.5,1.5
+12210011:Corporate Social Responsibility,Venture Capital,Software Engineering,Emerging Markets,International Trade,Numerical Methods:3.5,1.0,1.5,3.0,3.0,2.0
+12210012:Contemporary Issues in Korea,Korean Drama Studies,Power Systems,Korean Listening and Speaking,Korean History,Supply Chain Management:2.0,4.5,2.5,3.5,4.5,3.5
+12210013:Performance Management,Korean Philosophy,Data Structures,Risk Management,Modern Korean Literature,Korean Film and Media:4.5,2.0,1.5,1.5,3.0,1.0
+12210014:Concrete Design,Korean Women Studies,Transportation Engineering,Database Systems,Brand Management,Fluid Mechanics:2.0,4.5,1.0,3.5,1.5,3.5
+12210015:Korean Technology Culture,Renewable Energy Applications,Korean Proverbs and Idioms,Digital Logic Design,Structural Analysis,Strategic Management:1.5,3.0,2.5,3.0,1.0,4.5
+12210016:Numerical Methods,Mechatronics,Circuit Analysis,Artificial Intelligence,Computer Networks,Renewable Energy Systems:4.5,1.0,1.5,1.5,4.5,4.0
+12210017:Human Resources Management,Korean Listening and Speaking,Translation Studies,Mechanical Vibrations,Negotiation and Conflict Management,Embedded Systems:3.5,2.5,1.5,4.5,4.0,4.5
+12210018:Korean Popular Culture,Engineering Economics,Brand Management,Advanced Programming,Korean Arts and Crafts,Korean Film and Media:2.5,3.5,3.0,1.0,1.0,1.5
+12210019:Korean Calligraphy,Advanced Korean,Advanced Programming,Korean History,Startup Incubation,Korean Theatre:1.5,2.5,2.5,3.0,4.0,1.0
+12210020:Corporate Social Responsibility,Optimization Techniques,Korean Technology Culture,Korean Calligraphy,Korean Diaspora,Teaching Korean as a Second Language:1.0,3.0,3.5,3.5,1.0,1.5
+12210021:Korean Popular Culture,Translation Studies,Optimization Techniques,Korean Theatre,Thermodynamics,Entrepreneurship:1.0,4.5,3.0,3.5,3.0,1.0
+12210022:Emerging Markets,Heat Transfer,Artificial Intelligence,E-Commerce,Circuit Analysis,Interpretation Skills:2.0,3.5,4.0,2.5,3.0,3.0
+12210023:International Business,Fluid Mechanics,Korean-English Translation,Managerial Accounting,Interpretation Skills,Organizational Behavior:2.5,4.5,4.5,4.5,4.0,1.5
+12210024:Korean Folklore,Korean Diaspora,Korean Traditions,Negotiation and Conflict Management,Korean Drama Studies,Korean Calligraphy:1.0,3.5,3.5,2.0,2.0,2.5
+12210025:Renewable Energy Applications,Market Research,Advanced Programming,Risk Management,Managerial Accounting,Embedded Systems:3.5,1.5,4.0,3.0,3.5,1.5
+12210026:Structural Analysis,Power Systems,Teaching Korean as a Second Language,Performance Management,Nanotechnology,Consumer Behavior:4.0,2.5,1.5,1.5,2.0,1.5
+12210027:Business Analytics,Small Business Management,Distributed Systems,Corporate Governance,Corporate Social Responsibility,Digital Logic Design:4.5,4.5,3.0,2.0,1.5,1.5
+12210028:Intermediate Korean,Business Communication,Korean Diaspora,Digital Marketing,Organizational Behavior,Korean Religion:3.5,3.5,3.5,2.0,1.0,4.0
+12210029:Project Management,Financial Accounting,Advanced Korean,International Business,Automobile Engineering,K-Pop and Korean Wave:3.5,3.5,3.5,2.0,1.0,4.0
+12210030:Microprocessor Applications,Structural Analysis,Korean Arts and Crafts,Leadership Development,Korean Proverbs and Idioms,Sales Management:3.0,1.0,3.5,3.5,1.0,4.5
+12210031:Circuit Analysis,Korean Linguistics,Korean Technology Culture,Automobile Engineering,Modern Korean Literature,Teaching Korean as a Second Language:3.5,3.5,3.5,2.5,1.5,3.5
+12210032:K-Pop and Korean Wave,Sustainability in Business,Data-Driven Decision Making,Korean Theatre,Robotics,Geotechnical Engineering:2.0,3.5,2.0,2.5,4.0,4.5
+12210033:Introduction to Engineering,Small Business Management,Transportation Engineering,International Business,Thermodynamics,Signal Processing:1.5,1.5,2.5,2.5,1.5,4.5
+12210034:International Business,Data-Driven Decision Making,Korean Urban Culture,Optimization Techniques,Interpretation Skills,Retail Management:3.0,4.5,3.5,1.5,3.5,1.5
+12210035:History of Hangeul,Korean Theatre,Innovation in Business,Renewable Energy Systems,Computer Networks,Automobile Engineering:2.5,1.0,1.0,4.5,3.0,4.0
+12210036:Fluid Mechanics,Biomedical Engineering,Engineering Mathematics,History of Hangeul,Supply Chain Management,Control Systems:3.0,1.5,4.0,1.0,3.0,2.0
+12210037:Operations Management,Retail Management,Korean Political History,Blockchain Technology,Customer Relationship Management,Brand Management:4.0,3.0,1.5,3.0,2.5,3.0
+12210038:Customer Relationship Management,Performance Management,Korean Popular Culture,Control Systems,Crisis Management,Economic Policy:4.5,2.5,2.0,4.5,2.5,3.0
+12210039:Strategic Management,Korean Diaspora,Korean Linguistics,Venture Capital,Corporate Governance,Digital Logic Design:3.5,3.0,4.5,2.5,1.0,1.0
+12210040:Small Business Management,Operations Management,Korean Economic History,Real Estate Business,Introduction to Hangeul,Transportation Engineering:3.5,1.0,2.5,3.5,3.5,2.0
+12210041:Modern Korean Literature,Renewable Energy Applications,Korean War and Its Aftermath,Aerodynamics,Retail Management,Korean Urban Culture:2.5,1.5,4.0,3.5,1.5,3.5
+12210042:Project Management,Korean Women Studies,Introduction to Hangeul,Microprocessor Applications,Business Ethics,Korean Culture and Society:2.0,2.0,2.0,4.5,4.0,4.0
+12210043:Data Structures,Brand Management,Artificial Intelligence,Venture Capital,Transportation Engineering,Business Communication:4.0,2.0,3.5,1.5,3.0,1.5
+12210044:Heat Transfer,Engineering Economics,Robotics,Managerial Accounting,Advanced Programming,Korean Food and Culture:4.5,4.5,4.5,1.5,4.0,1.0
+12210045:Korean Drama Studies,Principles of Management,Korean Listening and Speaking,Korean Traditions,International Business,Embedded Systems:3.5,3.5,3.0,2.0,1.0,3.5
+12210046:Aerodynamics,Software Engineering,Retail Management,Financial Accounting,Computer Networks,Quantum Computing:1.0,1.5,4.0,1.5,3.0,4.5
+12210047:Robotics,Small Business Management,Corporate Social Responsibility,Korean Grammar,Embedded Systems,Brand Management:2.5,2.0,1.0,4.5,4.5,4.0
+12210048:Korean History,Distributed Systems,History of Hangeul,Modern Korean History,Renewable Energy Systems,Business Ethics:1.0,4.0,1.5,1.5,3.0,2.5
+12210049:Introduction to Hangeul,Financial Accounting,Small Business Management,Supply Chain Management,E-Commerce,Business Analytics:4.0,3.5,2.0,4.0,1.0,2.0
+12210050:Innovation in Business,Korean Technology Culture,Business Analytics,Engineering Mathematics,Sustainability in Business,Korean Dialects:1.5,4.0,4.0,2.5,4.0,2.0
+12210051:Retail Management,Renewable Energy Systems,Engineering Economics,Power Systems,Operations Management,Korean Food and Culture:2.0,1.5,2.0,1.5,4.0,3.0
+12210052:Organizational Behavior,Artificial Intelligence,Entrepreneurship,Big Data Analysis,Modern Korean History,Corporate Social Responsibility:2.5,4.0,3.0,2.0,3.5,4.5
+12210053:Marketing Strategies,Korean-English Translation,Human Resources Management,K-Pop and Korean Wave,Korean Proverbs and Idioms,Korean Dialects:1.0,1.0,1.0,2.5,1.5,1.5
+12210054:Optimization Techniques,Financial Accounting,Thermodynamics,Advanced Excel for Business,K-Pop and Korean Wave,Data Structures:3.5,1.0,1.0,3.0,4.5,4.0
+12210055:Automobile Engineering,Modern Korean History,Organizational Behavior,Korean Linguistics,Korean Theatre,Optimization Techniques:2.5,2.5,3.5,2.5,4.0,3.0
+12210056:Database Systems,Korean Proverbs and Idioms,Business Law,Concrete Design,Innovation in Business,Project Management:4.0,4.0,1.0,2.5,1.5,4.5
+12210057:Korean Urban Culture,Korean Religion,Financial Accounting,Emerging Markets,Retail Management,Robotics:4.5,1.5,2.0,3.0,3.5,2.5
+12210058:Korean Proverbs and Idioms,Biomedical Engineering,Risk Management,Computer Networks,Investment Analysis,Korean History:3.5,3.0,3.5,1.0,2.5,1.0
+12210059:Quantum Computing,Control Systems,Korean Women Studies,Engineering Mechanics,K-Pop and Korean Wave,Customer Relationship Management:4.0,3.0,3.0,1.0,3.5,4.0
+12210060:Korean Grammar,Consumer Behavior,Modern Korean Literature,Korean Theatre,Big Data Analysis,Korean Religion:3.5,2.5,3.5,4.0,1.5,4.5
+12210061:Negotiation and Conflict Management,Korean Proverbs and Idioms,Fluid Mechanics,Renewable Energy Systems,Korean Linguistics,Organizational Behavior:1.5,3.5,3.5,2.0,2.0,2.5
+12210062:Engineering Ethics,Advanced Excel for Business,Entrepreneurship,Automobile Engineering,Korean Proverbs and Idioms,Data Structures:2.0,2.5,4.0,4.5,3.0,2.0
+12210063:Contemporary Issues in Korea,K-Pop and Korean Wave,Embedded Systems,Business Law,Project Management,Korean History:3.5,3.0,3.0,3.5,2.0,2.0
+12210064:Logistics Management,Environmental Engineering,Digital Marketing,Crisis Management,Business Communication,Retail Management:3.5,1.0,4.0,4.5,4.5,4.0
+12210065:Negotiation and Conflict Management,Modern Korean Literature,Operations Management,Korean Urban Culture,Korean War and Its Aftermath,Korean-English Translation:2.0,2.5,2.5,1.5,4.5,3.5
+12210066:Operations Management,Korean Language Basics,Korean-English Translation,International Trade,Korean Traditional Music,Small Business Management:2.0,1.5,4.5,1.0,4.5,1.5
+12210067:Korean Folklore,Mechanical Vibrations,Korean Diaspora,Innovation in Business,Korean-English Translation,Interpretation Skills:1.0,2.5,3.0,1.5,1.0,4.0
+12210068:Teaching Korean as a Second Language,Modern Korean History,Korean Ceramics,Korean Linguistics,Operations Management,Automobile Engineering:3.5,4.5,2.5,2.0,4.0,1.0
+12210069:Korean Political History,North and South Korean Relations,Korean Women Studies,Korean History,Korean Dialects,Strategic Management:4.5,4.0,1.5,4.5,3.5,4.5
+12210070:Distributed Systems,Digital Marketing,Materials Science,Customer Relationship Management,Fluid Mechanics,Corporate Governance:1.5,4.0,1.5,1.0,4.5,1.0
+12210071:Mechatronics,Korean Ceramics,Microprocessor Applications,Economic Policy,Transportation Engineering,Interpretation Skills:1.5,3.0,2.5,1.0,3.0,1.5
+12210072:Advanced Korean,Advanced Programming,Blockchain Technology,Mechatronics,Korean Traditions,Korean Traditional Music:2.5,1.0,2.0,1.5,4.5,1.5
+12210073:Principles of Management,Financial Accounting,Contemporary Issues in Korea,Sustainability in Business,Supply Chain Management,Engineering Ethics:4.5,1.0,3.5,4.0,4.0,3.5
+12210074:Korean History,Optimization Techniques,Korean Literature,Transportation Engineering,Numerical Methods,Microprocessor Applications:3.0,2.5,4.0,2.5,1.5,4.5
+12210075:Korean Calligraphy,Risk Management,Organizational Behavior,Advanced Programming,Modern Korean Literature,North and South Korean Relations:1.5,3.5,4.0,4.0,4.0,3.0
+12210076:Embedded Systems,Consumer Behavior,North and South Korean Relations,Korean Diaspora,Microprocessor Applications,Market Research:2.0,2.0,4.5,3.5,4.5,1.0
+12210077:Operations Management,International Business,Korean Language Basics,Circuit Analysis,Strategic Management,Korean Poetry:2.0,2.5,4.5,3.0,2.5,3.5
+12210078:Retail Management,Financial Accounting,Nanotechnology,Artificial Intelligence,Real Estate Business,Advanced Programming:1.5,2.0,2.5,2.5,4.0,3.0
+12210079:Engineering Mathematics,Mechatronics,Korean War and Its Aftermath,Engineering Ethics,Database Systems,Innovation in Business:2.5,4.5,3.5,1.0,2.0,4.0
+12210080:Small Business Management,Business Ethics,Project Management,Korean Culture and Society,Optimization Techniques,Korean Religion:3.0,3.5,3.5,1.0,4.0,4.0
+12210081:Engineering Mathematics,Korean Calligraphy,Korean Popular Culture,Database Systems,Intermediate Korean,Translation Studies:2.0,3.0,4.0,3.5,2.5,2.0
+12210082:Strategic Management,Korean-English Translation,Business Communication,Contemporary Issues in Korea,Korean Ceramics,Microprocessor Applications:3.0,4.0,3.0,3.0,1.0,4.5
+12210083:Korean Culture and Society,Signal Processing,Startup Incubation,Introduction to Engineering,North and South Korean Relations,Advanced Programming:1.5,2.5,4.5,1.5,4.0,1.5
+12210084:Korean Film and Media,Sustainability in Business,Introduction to Hangeul,Startup Incubation,Embedded Systems,Nanotechnology:2.5,1.5,4.5,3.5,4.0,4.5
+12210085:Korean Diaspora,Managerial Accounting,Retail Management,Customer Relationship Management,Economic Policy,K-Pop and Korean Wave:3.0,2.5,4.0,1.0,1.0,4.0
+12210086:Advanced Programming,Embedded Systems,Supply Chain Management,Organizational Behavior,Robotics,Korean Political History:3.0,4.0,4.5,2.5,3.5,3.5
+12210087:Data Structures,Optimization Techniques,Interpretation Skills,Korean Grammar,Korean Philosophy,Innovation in Business:4.0,4.0,4.0,1.0,2.5,3.5
+12210088:Intermediate Korean,Retail Management,Artificial Intelligence,International Trade,Renewable Energy Systems,Market Research:2.0,1.5,1.5,2.5,2.0,4.0
+12210089:History of Hangeul,Artificial Intelligence,Fluid Mechanics,Logistics Management,Embedded Systems,Modern Korean Literature:1.5,4.0,1.5,2.5,4.5,1.0
+12210090:Business Ethics,Thermodynamics,Modern Korean Literature,Korean War and Its Aftermath,Korean Technology Culture,Korean Language Basics:1.0,2.0,3.5,4.0,2.5,2.0
+12210091:Korean Popular Culture,Korean Listening and Speaking,Investment Analysis,Korean Folklore,Korean Calligraphy,Human Resources Management:4.0,1.5,1.5,4.5,1.5,1.5
+12210092:Real Estate Business,Business Ethics,Teaching Korean as a Second Language,Logistics Management,Consumer Behavior,Data-Driven Decision Making:4.5,4.0,1.0,3.0,2.5,2.5
+12210093:Korean Drama Studies,Korean Reading and Comprehension,Korean Proverbs and Idioms,Data Structures,Korean History,Customer Relationship Management:2.5,2.0,3.5,3.0,3.5,2.0
+12210094:Entrepreneurship,Korean Traditions,Engineering Mechanics,Thermodynamics,Korean Folklore,Korean Technology Culture:1.0,3.0,2.5,3.0,1.0,1.0
+12210095:Big Data Analysis,Korean Dialects,Sales Management,Managerial Accounting,Korean Poetry,Power Systems:1.5,3.0,2.5,2.0,1.0,3.5
+12210096:Corporate Social Responsibility,Korean-English Translation,Retail Management,Korean Dialects,Robotics,Transportation Engineering:2.5,2.0,4.5,4.0,2.0,3.0
+12210097:Performance Management,Korean Language Basics,Korean Literature,Interpretation Skills,Fluid Mechanics,Project Management:1.5,3.5,1.0,1.5,2.0,1.5
+12210098:Data-Driven Decision Making,Software Engineering,Heat Transfer,Optimization Techniques,Digital Marketing,Venture Capital:4.5,1.5,1.5,3.5,4.5,2.5
+12210099:North and South Korean Relations,Embedded Systems,Korean Culture and Society,Contemporary Issues in Korea,Retail Management,Korean Folklore:1.0,1.5,1.0,2.5,2.5,1.5
+12210100:Engineering Mathematics,Engineering Physics,Consumer Behavior,Korean Traditional Music,Korean Women Studies,Korean Grammar:4.0,1.5,4.5,3.5,3.5,4.5
+12210101:Engineering Mechanics,Project Management,Korean Culture and Society,Distributed Systems,Korean-English Translation,Automobile Engineering:4.5,3.0,4.5,2.0,1.5,2.0
+12210102:Korean Food and Culture,Computer Networks,Advanced Programming,Korean Arts and Crafts,Customer Relationship Management,Optimization Techniques:1.5,2.5,1.0,3.5,1.5,2.5
+12210103:Economic Policy,Korean Proverbs and Idioms,K-Pop and Korean Wave,Big Data Analysis,Korean History,Power Systems:3.0,2.0,1.0,1.5,1.0,2.5
+12210104:Transportation Engineering,Automobile Engineering,Korean Linguistics,Introduction to Hangeul,Computer Networks,Korean Culture and Society:1.5,4.5,3.5,2.0,2.5,3.0
+12210105:Environmental Engineering,Mechanical Vibrations,Korean Technology Culture,Business Ethics,Business Communication,Negotiation and Conflict Management:4.5,3.0,1.0,3.5,3.0,2.0
+12210106:Machine Learning,Robotics,Korean Technology Culture,Concrete Design,Transportation Engineering,Korean Grammar:1.5,4.0,2.5,1.0,4.5,4.5
+12210107:Performance Management,Korean Literature,Quantum Computing,Business Communication,Korean War and Its Aftermath,Database Systems:3.0,4.5,1.0,1.0,4.0,2.0
+12210108:Control Systems,Introduction to Engineering,Customer Relationship Management,Korean Dialects,Signal Processing,Economic Policy:4.5,1.5,1.0,1.5,1.5,2.5
+12210109:Principles of Management,Microprocessor Applications,Korean Poetry,Entrepreneurship,Optimization Techniques,Real Estate Business:3.5,1.0,2.0,4.5,3.0,3.5
+12210110:Engineering Economics,Korean Language Basics,Circuit Analysis,Advanced Programming,Korean-English Translation,Embedded Systems:2.5,2.0,4.0,4.0,2.0,2.5
+12210111:Engineering Physics,Organizational Behavior,Venture Capital,Business Ethics,Korean Language Basics,Software Engineering:1.0,3.5,2.5,3.5,4.0,3.5
+12210112:Robotics,Circuit Analysis,Korean Poetry,Materials Science,Control Systems,Artificial Intelligence:2.5,3.0,1.0,3.5,4.0,4.5
+12210113:Korean Food and Culture,Crisis Management,Power Systems,Fluid Mechanics,Introduction to Hangeul,Intermediate Korean:1.0,1.0,3.0,4.5,2.5,3.5
+12210114:Risk Management,Advanced Korean,Advanced Excel for Business,Mechatronics,Distributed Systems,Performance Management:3.5,1.5,2.5,1.0,2.5,3.0
+12210115:Korean Traditions,Organizational Behavior,North and South Korean Relations,Engineering Economics,Database Systems,Korean Popular Culture:1.5,4.5,2.0,4.0,3.5,4.0
+12210116:Big Data Analysis,Teaching Korean as a Second Language,Blockchain Technology,Negotiation and Conflict Management,Korean Religion,Power Systems:1.5,1.0,4.0,1.5,2.0,2.5
+12210117:Market Research,Structural Analysis,Thermodynamics,Advanced Excel for Business,Small Business Management,Customer Relationship Management:3.0,4.0,4.0,3.5,3.0,4.5
+12210118:Korean Ceramics,Database Systems,Modern Korean History,Korean Poetry,Korean-English Translation,Intermediate Korean:2.5,3.0,3.0,4.5,4.0,1.0
+12210119:Korean Linguistics,Mechanical Vibrations,Korean Language Basics,Corporate Governance,Korean Religion,Logistics Management:2.5,2.0,1.0,4.5,1.5,4.0
+12210120:Korean Traditional Music,Concrete Design,Contemporary Issues in Korea,Financial Accounting,Korean Ceramics,Korean Religion:1.5,1.5,4.5,3.5,1.5,1.5
+12210121:Corporate Governance,Circuit Analysis,Korean Folklore,Numerical Methods,Market Research,Korean Diaspora:2.0,1.5,4.0,1.5,1.5,2.0
+12210122:Artificial Intelligence,Translation Studies,Principles of Management,Intermediate Korean,Risk Management,Customer Relationship Management:4.0,2.0,4.5,1.0,1.5,4.0
+12210123:Environmental Engineering,Modern Korean History,Korean Arts and Crafts,Introduction to Hangeul,Big Data Analysis,Risk Management:2.0,3.5,4.5,4.5,2.5,3.5
+12210124:Engineering Economics,Negotiation and Conflict Management,Emerging Markets,Logistics Management,Numerical Methods,Biomedical Engineering:2.0,4.0,3.0,2.5,2.5,1.5
+12210125:Customer Relationship Management,Korean Technology Culture,Business Communication,Mechatronics,Circuit Analysis,Financial Accounting:2.5,1.0,4.0,1.5,4.5,1.5
+12210126:K-Pop and Korean Wave,Korean Drama Studies,Korean Calligraphy,Korean War and Its Aftermath,Nanotechnology,Business Analytics:1.5,1.0,1.0,4.5,2.0,3.0
+12210127:Consumer Behavior,Korean Technology Culture,Korean-English Translation,Corporate Governance,Korean Philosophy,Korean Language Basics:4.0,1.5,4.0,3.5,4.0,2.0
+12210128:Emerging Markets,Operations Management,Korean Language Basics,Renewable Energy Applications,Control Systems,Fluid Mechanics:4.0,1.5,2.0,1.0,2.5,2.5
+12210129:Venture Capital,International Trade,Intermediate Korean,Korean-English Translation,Leadership Development,Business Communication:2.0,1.0,2.0,1.5,4.0,1.0
+12210130:Transportation Engineering,Digital Logic Design,Korean Drama Studies,Embedded Systems,Korean War and Its Aftermath,Robotics:4.0,3.5,2.0,3.0,2.0,1.5
+12210131:Korean Poetry,Korean Culture and Society,Korean Technology Culture,Customer Relationship Management,Real Estate Business,Entrepreneurship:2.0,4.5,2.5,4.0,2.0,3.0
+12210132:Aerodynamics,Engineering Physics,Korean Ceramics,Corporate Governance,Logistics Management,Sustainability in Business:1.5,4.5,1.5,1.0,1.5,2.0
+12210133:Venture Capital,Financial Accounting,Strategic Management,Mechanical Vibrations,Korean Political History,Korean Culture and Society:3.5,4.0,4.5,3.5,4.0,4.0
+12210134:Engineering Mechanics,Korean Traditional Music,Aerodynamics,International Business,Structural Analysis,Heat Transfer:2.5,3.0,2.0,3.5,2.0,4.5
+12220000:Managerial Accounting,Advanced Programming,Corporate Governance,Supply Chain Management,Korean-English Translation,Materials Science:1.5,4.0,3.5,3.5,3.5,4.0
+12220001:Customer Relationship Management,Fluid Mechanics,Korean Religion,Embedded Systems,Korean Language Basics,Small Business Management:4.5,2.5,4.5,2.0,4.5,4.5
+12220002:International Business,Korean Traditions,Korean Drama Studies,Korean Proverbs and Idioms,Entrepreneurship,International Trade:3.0,3.0,1.0,4.0,2.5,2.5
+12220003:Corporate Governance,International Business,Korean Film and Media,Korean Culture and Society,Business Law,Business Communication:4.5,1.0,2.5,2.0,1.5,1.5
+12220004:Sustainability in Business,International Trade,Big Data Analysis,Introduction to Hangeul,Business Communication,Brand Management:1.0,4.5,1.0,4.0,2.5,2.5
+12220005:Data-Driven Decision Making,Korean Philosophy,Nanotechnology,Human Resources Management,Thermodynamics,Korean Political History:3.0,4.5,3.0,1.0,1.5,4.0
+12220006:Renewable Energy Systems,Digital Marketing,Corporate Social Responsibility,Sales Management,Geotechnical Engineering,Business Ethics:1.0,1.5,3.5,2.5,3.0,4.5
+12220007:Korean Literature,Distributed Systems,Artificial Intelligence,Consumer Behavior,Modern Korean History,Financial Accounting:1.0,3.5,1.5,2.5,4.5,4.0
+12220008:Advanced Programming,Investment Analysis,Machine Learning,Operations Management,Korean Linguistics,Korean Philosophy:3.0,4.5,4.0,4.5,4.5,4.5
+12220009:Brand Management,Leadership Development,Optimization Techniques,Contemporary Issues in Korea,Mechatronics,Crisis Management:2.5,1.0,3.5,1.5,1.0,3.0
+12220010:Retail Management,Korean Dialects,Korean Technology Culture,Organizational Behavior,Korean Reading and Comprehension,Korean Folklore:3.5,4.5,2.5,4.0,2.5,2.0
+12220011:Consumer Behavior,Robotics,Artificial Intelligence,Korean Folklore,Computer Networks,Retail Management:4.0,3.0,1.0,2.0,2.5,3.0
+12220012:Korean History,Korean Folklore,Modern Korean Literature,Brand Management,Teaching Korean as a Second Language,Computer Networks:4.5,1.0,4.5,3.0,4.5,2.0
+12220013:Power Systems,Optimization Techniques,Korean Grammar,Blockchain Technology,Geotechnical Engineering,Nanotechnology:2.0,2.5,1.5,2.0,3.0,1.0
+12220014:Startup Incubation,Big Data Analysis,Software Engineering,Blockchain Technology,Korean Folklore,Supply Chain Management:1.0,4.0,2.5,3.0,4.5,3.5
+12220015:Microprocessor Applications,Korean Philosophy,Advanced Programming,Renewable Energy Systems,Korean Grammar,Human Resources Management:2.5,4.0,2.0,1.5,1.5,1.0
+12220016:Engineering Physics,Corporate Social Responsibility,Market Research,Retail Management,Investment Analysis,Digital Logic Design:2.0,4.5,3.5,3.5,2.5,1.5
+12220017:Robotics,Financial Accounting,Market Research,Korean Traditional Music,Engineering Ethics,Organizational Behavior:3.5,2.0,2.0,1.0,2.0,4.5
+12220018:Sales Management,Introduction to Engineering,Entrepreneurship,Engineering Ethics,Korean Ceramics,Korean Listening and Speaking:4.0,1.0,2.5,1.5,2.0,4.0
+12220019:Korean Linguistics,Korean Women Studies,Data Structures,Software Engineering,Digital Marketing,Korean Film and Media:4.5,4.5,4.0,4.0,4.0,3.0
+12220020:Introduction to Engineering,Optimization Techniques,Automobile Engineering,Korean Popular Culture,Transportation Engineering,Korean Women Studies:2.0,2.0,4.5,4.0,1.5,2.0
+12220021:Mechatronics,Machine Learning,Marketing Strategies,Korean Theatre,Computer Networks,Nanotechnology:3.5,4.5,2.5,3.5,4.5,2.0
+12220022:Korean Literature,Materials Science,Digital Marketing,Corporate Governance,Human Resources Management,Artificial Intelligence:2.5,1.5,2.0,2.5,4.0,2.5
+12220023:K-Pop and Korean Wave,Circuit Analysis,Materials Science,Risk Management,Principles of Management,Korean Proverbs and Idioms:1.5,2.5,4.5,1.5,4.5,4.0
+12220024:Engineering Economics,Korean-English Translation,Korean Folklore,Big Data Analysis,Crisis Management,Korean Ceramics:4.0,2.5,2.5,4.5,1.5,4.0
+12220025:Computer Networks,Business Communication,Quantum Computing,Software Engineering,Sustainability in Business,Intermediate Korean:4.0,2.0,2.0,2.5,3.5,4.5
+12220026:Geotechnical Engineering,Digital Logic Design,Control Systems,Korean Language Basics,Korean War and Its Aftermath,Introduction to Engineering:2.5,2.0,1.0,3.5,3.5,4.5
+12220027:Korean Ceramics,Business Analytics,Korean Language Basics,Startup Incubation,E-Commerce,Real Estate Business:2.0,4.5,2.5,1.5,2.5,2.0
+12220028:Performance Management,Automobile Engineering,Korean Proverbs and Idioms,Korean Diaspora,Engineering Physics,Robotics:1.5,4.0,2.0,4.5,3.0,1.0
+12220029:Operations Management,Biomedical Engineering,Concrete Design,Leadership Development,Sales Management,Korean Culture and Society:2.5,3.0,1.0,3.5,4.0,2.0
+12220030:Biomedical Engineering,Emerging Markets,Corporate Social Responsibility,International Trade,Risk Management,Advanced Korean:4.0,1.0,3.0,4.0,3.0,2.0
+12220031:Business Analytics,Korean Dialects,Korean Linguistics,Korean Theatre,Optimization Techniques,Marketing Strategies:2.5,4.0,4.0,4.5,4.5,2.0
+12220032:International Business,International Trade,Interpretation Skills,E-Commerce,Korean Traditions,Korean Women Studies:3.0,4.5,2.0,2.0,2.5,1.0
+12220033:Renewable Energy Systems,Business Law,Computer Networks,Heat Transfer,Organizational Behavior,Korean Urban Culture:3.0,3.5,4.5,3.0,2.5,4.0
+12220034:Korean Reading and Comprehension,Korean Women Studies,Modern Korean Literature,Fluid Mechanics,Korean Religion,Power Systems:4.5,4.5,4.5,3.5,3.5,2.5
+12220035:Korean Listening and Speaking,Korean Language Basics,Microprocessor Applications,Materials Science,Korean Technology Culture,Korean Religion:2.5,4.0,3.0,3.5,1.5,1.5
+12220036:Investment Analysis,Artificial Intelligence,Fluid Mechanics,Logistics Management,Consumer Behavior,Optimization Techniques:2.0,1.5,1.5,3.5,3.5,1.5
+12220037:Data-Driven Decision Making,Renewable Energy Systems,Korean Linguistics,Financial Accounting,Introduction to Engineering,Investment Analysis:3.5,3.0,3.0,2.0,2.5,1.5
+12220038:Big Data Analysis,Korean Arts and Crafts,North and South Korean Relations,Economic Policy,Thermodynamics,Korean Listening and Speaking:3.5,4.5,4.5,3.0,1.5,4.0
+12220039:Brand Management,Retail Management,Korean Literature,Korean Women Studies,Logistics Management,Modern Korean History:2.0,1.0,3.5,1.5,3.0,1.5
+12220040:Renewable Energy Systems,Computer Networks,Human Resources Management,Optimization Techniques,Korean Proverbs and Idioms,Korean Reading and Comprehension:2.5,2.0,4.0,2.5,1.5,2.0
+12220041:Control Systems,Power Systems,North and South Korean Relations,Human Resources Management,Performance Management,Retail Management:3.0,2.5,1.5,4.5,1.0,1.0
+12220042:Translation Studies,Marketing Strategies,Corporate Governance,Korean Reading and Comprehension,Transportation Engineering,Korean Economic History:3.5,2.5,1.0,4.5,1.0,3.0
+12220043:Korean Calligraphy,Engineering Ethics,Data-Driven Decision Making,Materials Science,Database Systems,Signal Processing:3.0,2.0,3.5,4.0,4.5,1.0
+12220044:Structural Analysis,Corporate Governance,Consumer Behavior,Computer Networks,Sales Management,Korean Theatre:3.5,3.0,4.0,2.0,1.5,1.0
+12220045:Korean Religion,Interpretation Skills,Leadership Development,Automobile Engineering,Korean Ceramics,Sustainability in Business:1.0,1.5,2.5,4.5,3.5,1.0
+12220046:Translation Studies,Business Law,Korean Linguistics,Leadership Development,Innovation in Business,Aerodynamics:4.0,2.5,3.0,2.0,2.0,1.5
+12220047:Numerical Methods,Blockchain Technology,Korean Grammar,Aerodynamics,Business Analytics,Korean Religion:1.0,3.5,4.0,3.0,1.5,2.0
+12220048:Korean-English Translation,Korean Philosophy,Korean Reading and Comprehension,Distributed Systems,Power Systems,Korean Ceramics:3.5,4.0,4.0,3.0,2.0,3.5
+12220049:Brand Management,Korean Calligraphy,Korean Language Basics,Real Estate Business,Translation Studies,Modern Korean Literature:1.5,3.5,1.0,1.0,1.0,3.0
+12220050:Engineering Ethics,Economic Policy,Korean Diaspora,Machine Learning,E-Commerce,Distributed Systems:2.0,4.5,2.5,1.5,1.0,2.0
+12220051:Korean Proverbs and Idioms,Principles of Management,Microprocessor Applications,Korean Literature,Korean Culture and Society,Renewable Energy Systems:4.5,3.0,4.0,4.5,2.5,4.0
+12220052:Performance Management,Digital Marketing,Korean Economic History,Biomedical Engineering,International Trade,Geotechnical Engineering:2.5,2.0,3.0,1.0,4.0,4.0
+12220053:Embedded Systems,Biomedical Engineering,Korean Political History,Korean Philosophy,Mechatronics,Korean History:2.5,4.0,3.5,2.0,2.0,2.5
+12220054:Economic Policy,Korean Food and Culture,Mechanical Vibrations,Business Communication,Microprocessor Applications,Human Resources Management:3.5,4.0,4.0,4.5,3.0,2.0
+12220055:Fluid Mechanics,Venture Capital,Korean Theatre,Automobile Engineering,Business Ethics,Database Systems:2.0,1.0,1.5,2.0,4.0,4.5
+12220056:Startup Incubation,Geotechnical Engineering,Leadership Development,Data-Driven Decision Making,Engineering Mathematics,K-Pop and Korean Wave:4.5,1.0,4.0,3.5,4.0,3.0
+12220057:Signal Processing,Power Systems,Korean Arts and Crafts,Supply Chain Management,Database Systems,Venture Capital:2.5,3.0,3.5,3.5,4.0,2.0
+12220058:Advanced Excel for Business,Supply Chain Management,Korean Urban Culture,Korean Theatre,Korean Film and Media,Distributed Systems:1.0,4.5,3.0,4.5,1.0,3.0
+12220059:Korean-English Translation,Principles of Management,Korean Traditional Music,Korean Food and Culture,History of Hangeul,Managerial Accounting:4.5,3.0,4.0,1.0,1.5,3.0
+12220060:Structural Analysis,Renewable Energy Systems,Real Estate Business,Managerial Accounting,Nanotechnology,Aerodynamics:4.5,2.5,2.0,4.5,3.5,2.5
+12220061:Korean Traditions,Korean Calligraphy,Renewable Energy Systems,Strategic Management,Signal Processing,Digital Logic Design:4.5,4.5,2.5,1.0,1.5,1.5
+12220062:Advanced Programming,Power Systems,Introduction to Engineering,Interpretation Skills,Renewable Energy Systems,Korean Folklore:4.0,3.0,2.5,4.5,4.5,4.0
+12220063:Market Research,Financial Accounting,Concrete Design,Intermediate Korean,Strategic Management,Optimization Techniques:1.5,4.5,2.5,4.0,2.0,2.5
+12220064:Innovation in Business,Korean Folklore,Intermediate Korean,Market Research,Business Communication,Economic Policy:1.0,3.0,2.5,3.5,4.5,2.5
+12220065:North and South Korean Relations,Distributed Systems,Korean War and Its Aftermath,Crisis Management,Korean Calligraphy,Korean Drama Studies:1.5,4.0,1.0,4.5,2.5,1.5
+12220066:Thermodynamics,Database Systems,Machine Learning,Power Systems,Startup Incubation,Korean Literature:3.5,4.5,3.5,1.0,3.5,4.5
+12220067:Concrete Design,Business Communication,Investment Analysis,Korean Literature,Mechanical Vibrations,Translation Studies:3.0,2.0,2.0,2.5,1.0,4.0
+12220068:Korean War and Its Aftermath,Leadership Development,Microprocessor Applications,Emerging Markets,Engineering Physics,Corporate Social Responsibility:1.0,3.0,2.5,4.5,4.0,3.5
+12220069:Korean Linguistics,Korean Folklore,Robotics,Engineering Physics,Korean Dialects,Optimization Techniques:1.5,4.0,3.0,1.0,4.0,3.0
+12220070:Microprocessor Applications,Korean Folklore,Distributed Systems,Machine Learning,Organizational Behavior,Korean Philosophy:2.0,2.5,4.5,2.5,1.0,2.5
+12220071:Structural Analysis,Korean Economic History,Investment Analysis,Data-Driven Decision Making,Performance Management,Financial Accounting:2.5,3.5,2.0,1.5,1.5,3.0
+12220072:Korean Calligraphy,Small Business Management,Corporate Governance,Mechatronics,Korean Literature,Korean Food and Culture:1.5,1.0,1.0,3.5,4.5,1.0
+12220073:Artificial Intelligence,Organizational Behavior,Microprocessor Applications,Blockchain Technology,Engineering Mathematics,Modern Korean Literature:4.5,2.0,1.0,3.5,1.5,2.0
+12220074:Transportation Engineering,Supply Chain Management,Korean-English Translation,Real Estate Business,International Trade,Korean Ceramics:2.5,1.0,4.5,3.0,1.0,1.5
+12220075:Digital Logic Design,Korean Linguistics,Materials Science,Retail Management,Korean Political History,Emerging Markets:1.5,1.5,3.0,4.0,3.0,3.5
+12220076:Fluid Mechanics,Korean History,Logistics Management,Korean Culture and Society,Engineering Mathematics,Environmental Engineering:1.0,1.5,4.0,1.0,1.0,1.5
+12220077:Thermodynamics,Korean Poetry,Emerging Markets,Risk Management,Korean Reading and Comprehension,Startup Incubation:3.5,1.0,1.0,2.5,2.0,4.0
+12220078:Database Systems,Venture Capital,Translation Studies,Economic Policy,Mechanical Vibrations,Korean Philosophy:4.5,1.5,2.0,2.5,2.5,3.0
+12220079:Korean History,Principles of Management,Business Ethics,Financial Accounting,Nanotechnology,Real Estate Business:3.5,1.0,2.5,3.0,1.0,4.0
+12220080:Blockchain Technology,Signal Processing,Korean Technology Culture,Business Law,Engineering Ethics,Korean Poetry:4.0,2.5,1.0,2.5,2.0,1.5
+12220081:Entrepreneurship,Artificial Intelligence,Economic Policy,Embedded Systems,Brand Management,Korean Political History:1.5,4.5,4.5,1.5,2.0,1.5
+12220082:Blockchain Technology,Managerial Accounting,Korean Technology Culture,Risk Management,Startup Incubation,Consumer Behavior:1.0,4.0,4.0,2.0,4.5,4.0
+12220083:Principles of Management,Korean Dialects,Circuit Analysis,Control Systems,Korean Grammar,Introduction to Hangeul:4.0,1.5,2.5,2.5,4.0,3.0
+12220084:North and South Korean Relations,Supply Chain Management,Project Management,Marketing Strategies,Korean Poetry,Heat Transfer:1.0,1.0,4.0,1.5,4.0,2.0
+12220085:Materials Science,Engineering Physics,Strategic Management,Korean Grammar,Operations Management,Artificial Intelligence:3.0,4.5,3.5,4.0,1.0,1.0
+12220086:Marketing Strategies,Robotics,Environmental Engineering,Data-Driven Decision Making,Negotiation and Conflict Management,Engineering Physics:1.5,1.5,2.5,2.0,4.0,4.5
+12220087:Structural Analysis,Interpretation Skills,Renewable Energy Applications,Korean Language Basics,Modern Korean Literature,Small Business Management:4.0,4.5,4.0,2.0,2.5,2.5
+12220088:Microprocessor Applications,Human Resources Management,Business Analytics,Renewable Energy Applications,Business Law,Contemporary Issues in Korea:1.0,3.0,4.5,3.0,3.5,2.5
+12220089:Financial Accounting,K-Pop and Korean Wave,Real Estate Business,Circuit Analysis,Blockchain Technology,Software Engineering:2.0,4.5,2.5,4.5,3.0,4.0
+12220090:Renewable Energy Systems,Business Ethics,Entrepreneurship,Real Estate Business,Thermodynamics,Korean Philosophy:1.0,4.0,2.0,3.0,4.0,4.5
+12220091:Korean Technology Culture,Advanced Excel for Business,Negotiation and Conflict Management,Retail Management,Korean Traditional Music,Risk Management:4.0,1.5,2.5,1.5,3.0,3.5
+12220092:Introduction to Engineering,Advanced Korean,Big Data Analysis,Geotechnical Engineering,Korean Drama Studies,Risk Management:3.0,4.0,1.0,4.0,2.0,1.5
+12220093:Principles of Management,Business Analytics,Modern Korean Literature,Introduction to Hangeul,Business Communication,Korean Folklore:2.0,4.5,3.0,2.5,2.5,3.0
+12220094:Korean Linguistics,Investment Analysis,Market Research,Engineering Ethics,Aerodynamics,Korean Folklore:3.5,3.0,3.5,4.5,1.5,4.0
+12220095:Renewable Energy Systems,Signal Processing,Control Systems,Fluid Mechanics,Contemporary Issues in Korea,Modern Korean Literature:2.5,3.0,1.5,2.0,3.0,4.5
+12220096:Innovation in Business,Organizational Behavior,Environmental Engineering,Aerodynamics,Intermediate Korean,Business Law:1.5,4.0,3.5,3.5,3.0,2.5
+12220097:Transportation Engineering,Financial Accounting,Korean History,Fluid Mechanics,Korean Listening and Speaking,Thermodynamics:3.0,1.5,4.5,3.0,2.0,3.0
+12220098:Modern Korean Literature,Computer Networks,Negotiation and Conflict Management,Korean Linguistics,Korean Language Basics,Blockchain Technology:4.5,3.0,1.5,2.5,1.0,3.0
+12220099:Engineering Mechanics,K-Pop and Korean Wave,Korean Calligraphy,Negotiation and Conflict Management,Korean History,International Trade:3.5,2.5,1.0,2.5,3.0,1.5
+12220100:Performance Management,Marketing Strategies,Korean Economic History,Crisis Management,Korean Drama Studies,Korean Ceramics:1.5,3.0,1.5,2.5,2.0,4.0
+12220101:Korean Political History,Big Data Analysis,Investment Analysis,Materials Science,Korean War and Its Aftermath,Transportation Engineering:4.0,1.5,2.0,4.5,1.0,2.5
+12220102:Korean Food and Culture,Korean Traditional Music,Business Law,Korean Religion,Introduction to Hangeul,Mechatronics:4.5,3.5,1.0,2.0,3.5,4.5
+12220103:Korean Listening and Speaking,History of Hangeul,Korean Dialects,International Trade,Korean Popular Culture,Small Business Management:4.0,2.0,2.0,2.5,1.0,1.5
+12220104:Structural Analysis,Environmental Engineering,Korean Dialects,Innovation in Business,Customer Relationship Management,Principles of Management:4.5,4.0,2.5,2.0,3.0,3.0
+12220105:Korean Popular Culture,Customer Relationship Management,Modern Korean History,Operations Management,International Business,Quantum Computing:3.0,1.5,4.5,3.0,3.0,1.5
+12220106:Investment Analysis,Signal Processing,Introduction to Hangeul,Translation Studies,Embedded Systems,Korean Culture and Society:3.0,4.0,4.5,1.0,3.5,1.5
+12220107:Korean Dialects,Introduction to Hangeul,Engineering Mechanics,Innovation in Business,Korean History,Heat Transfer:1.5,1.5,1.0,4.5,3.5,2.5
+12220108:Software Engineering,Sustainability in Business,Mechanical Vibrations,Fluid Mechanics,Introduction to Hangeul,Control Systems:4.5,2.0,2.0,1.5,4.0,2.0
+12220109:Korean Film and Media,Korean Economic History,Korean-English Translation,Korean Urban Culture,Engineering Physics,Digital Logic Design:4.5,1.5,1.0,3.0,4.5,1.0
+12220110:Korean Popular Culture,Translation Studies,Innovation in Business,Strategic Management,Sales Management,Investment Analysis:1.5,4.5,2.5,1.5,2.0,1.0
+12220111:Biomedical Engineering,Emerging Markets,Managerial Accounting,Korean Calligraphy,Embedded Systems,Translation Studies:4.5,1.5,4.0,1.0,1.0,2.5
+12220112:Digital Marketing,Artificial Intelligence,Software Engineering,Engineering Physics,Operations Management,Machine Learning:2.0,2.0,4.5,4.0,3.5,2.0
+12220113:Concrete Design,Microprocessor Applications,Blockchain Technology,Numerical Methods,Mechanical Vibrations,Control Systems:4.5,3.5,2.5,1.0,3.5,3.5
+12220114:Signal Processing,Marketing Strategies,Biomedical Engineering,Renewable Energy Applications,Microprocessor Applications,Business Analytics:1.0,1.5,3.5,4.0,2.5,2.0
+12220115:Renewable Energy Applications,Engineering Mechanics,Environmental Engineering,Teaching Korean as a Second Language,Crisis Management,Market Research:1.0,3.0,3.5,4.0,4.5,3.5
+12220116:Leadership Development,Software Engineering,Korean Economic History,Sales Management,Korean Dialects,Distributed Systems:1.0,2.5,4.5,1.5,4.0,1.5
+12220117:Korean Linguistics,Transportation Engineering,Aerodynamics,Circuit Analysis,Managerial Accounting,Korean Popular Culture:4.5,1.0,3.5,2.0,2.5,3.5
+12220118:Transportation Engineering,Automobile Engineering,Contemporary Issues in Korea,Aerodynamics,Engineering Physics,Marketing Strategies:1.0,1.0,1.0,4.0,4.0,4.0
+12220119:Leadership Development,Contemporary Issues in Korea,Organizational Behavior,Korean Grammar,Renewable Energy Systems,Intermediate Korean:2.5,1.0,3.0,1.0,1.5,4.0
+12220120:Innovation in Business,Structural Analysis,Supply Chain Management,Korean Arts and Crafts,Project Management,Automobile Engineering:2.5,3.5,1.0,3.5,2.0,3.0
+12220121:Korean Traditional Music,E-Commerce,Korean Drama Studies,Corporate Social Responsibility,Engineering Physics,Korean Language Basics:4.5,2.0,2.0,2.5,4.0,2.0
+12220122:Negotiation and Conflict Management,Strategic Management,Korean Grammar,Geotechnical Engineering,Engineering Economics,Korean Poetry:2.0,4.5,3.5,1.0,4.0,2.5
+12220123:Digital Logic Design,Distributed Systems,Engineering Economics,Mechatronics,Materials Science,Corporate Social Responsibility:3.0,4.0,4.5,3.5,1.0,1.0
+12220124:Korean Reading and Comprehension,Operations Management,Mechatronics,Korean Traditions,Sales Management,Control Systems:1.0,2.5,3.5,1.5,2.0,1.0
+12220125:Structural Analysis,Engineering Mathematics,Computer Networks,Korean History,Corporate Governance,Korean Poetry:2.0,4.0,2.5,3.0,1.5,1.0
+12220126:Advanced Excel for Business,Transportation Engineering,International Trade,Modern Korean Literature,Operations Management,Structural Analysis:3.0,1.5,3.5,4.0,3.0,3.0
+12220127:Innovation in Business,Engineering Economics,Engineering Physics,Human Resources Management,Korean Traditions,Geotechnical Engineering:2.0,2.5,4.5,4.0,1.5,4.0
+12220128:Materials Science,Entrepreneurship,Signal Processing,Teaching Korean as a Second Language,Modern Korean Literature,Small Business Management:2.0,1.0,4.5,2.5,3.5,2.0
+12220129:Contemporary Issues in Korea,Mechanical Vibrations,Operations Management,Digital Logic Design,Korean Women Studies,Korean Theatre:4.0,1.0,3.5,4.0,2.5,1.5
+12220130:Startup Incubation,Digital Marketing,Microprocessor Applications,Korean Traditions,Robotics,Automobile Engineering:4.5,3.5,4.0,1.0,3.5,3.0
+12220131:Advanced Programming,Computer Networks,Korean Philosophy,Materials Science,Emerging Markets,Introduction to Engineering:2.5,3.5,1.0,3.0,1.0,1.5
+12220132:Crisis Management,Korean Popular Culture,Modern Korean Literature,Business Analytics,Korean Grammar,Artificial Intelligence:1.0,3.5,3.0,2.0,1.5,1.5
+12220133:Business Ethics,Mechanical Vibrations,Introduction to Engineering,Korean Women Studies,Korean Traditions,Korean Drama Studies:1.5,4.0,4.0,2.5,3.5,1.0
+12220134:Managerial Accounting,Principles of Management,Organizational Behavior,Korean Literature,Economic Policy,Advanced Korean:3.5,2.5,4.5,1.5,2.0,2.0
+12230000:Renewable Energy Systems,Korean Listening and Speaking,Korean Dialects,Mechanical Vibrations,Sustainability in Business,Korean Film and Media:1.5,1.0,3.5,1.5,3.0,3.5
+12230001:Aerodynamics,Contemporary Issues in Korea,Concrete Design,Korean Listening and Speaking,Big Data Analysis,Signal Processing:1.5,1.5,4.0,1.0,1.0,1.5
+12230002:Operations Management,Korean Urban Culture,International Business,Korean Culture and Society,Big Data Analysis,Mechanical Vibrations:3.0,4.0,4.0,4.5,1.5,2.0
+12230003:Economic Policy,Artificial Intelligence,North and South Korean Relations,Korean Economic History,Computer Networks,Korean-English Translation:2.5,4.0,4.5,4.0,1.5,1.5
+12230004:Digital Logic Design,International Business,Project Management,Korean Listening and Speaking,Microprocessor Applications,Korean Language Basics:3.0,3.0,2.5,2.5,4.5,3.0
+12230005:Nanotechnology,Korean Folklore,Financial Accounting,Organizational Behavior,Emerging Markets,Korean Theatre:1.5,4.0,4.0,2.0,1.5,1.0
+12230006:Microprocessor Applications,Korean Religion,Brand Management,Consumer Behavior,Korean-English Translation,Transportation Engineering:1.0,4.5,4.5,2.5,1.5,2.0
+12230007:Fluid Mechanics,Thermodynamics,Investment Analysis,Emerging Markets,Real Estate Business,Embedded Systems:4.5,2.0,3.0,2.0,1.0,2.5
+12230008:Economic Policy,Corporate Governance,Marketing Strategies,Automobile Engineering,Small Business Management,International Trade:4.5,1.0,3.0,3.5,4.5,4.0
+12230009:Korean Traditional Music,Corporate Governance,Korean Religion,Korean Political History,Engineering Ethics,Korean Drama Studies:2.5,1.5,4.5,1.5,4.0,4.5
+12230010:Korean Calligraphy,Crisis Management,Consumer Behavior,Risk Management,Translation Studies,Korean Food and Culture:1.5,2.0,3.5,4.5,3.5,2.0
+12230011:Engineering Economics,Automobile Engineering,Korean Language Basics,History of Hangeul,Principles of Management,Negotiation and Conflict Management:2.5,1.5,1.0,1.5,4.5,3.5
+12230012:Embedded Systems,Sales Management,E-Commerce,Crisis Management,Risk Management,Circuit Analysis:4.0,3.0,4.0,4.5,1.0,2.0
+12230013:Logistics Management,Korean Linguistics,Korean History,Korean Calligraphy,Leadership Development,Emerging Markets:2.5,4.0,1.0,2.5,1.5,1.0
+12230014:Emerging Markets,Korean Traditions,Microprocessor Applications,Machine Learning,Korean Traditional Music,Artificial Intelligence:4.0,1.0,1.0,3.0,4.0,1.5
+12230015:Small Business Management,Contemporary Issues in Korea,Strategic Management,Modern Korean Literature,Modern Korean History,Mechatronics:4.5,4.5,3.0,1.0,3.5,4.5
+12230016:Aerodynamics,Digital Marketing,Korean History,Innovation in Business,K-Pop and Korean Wave,Modern Korean History:3.5,1.0,1.0,3.5,4.5,4.5
+12230017:Korean Listening and Speaking,Korean Food and Culture,International Trade,Mechatronics,Emerging Markets,Project Management:4.0,2.0,1.0,2.5,1.5,4.5
+12230018:Korean Linguistics,Engineering Mathematics,Business Analytics,Signal Processing,Strategic Management,Numerical Methods:4.0,2.0,2.5,4.0,3.5,3.0
+12230019:Environmental Engineering,Optimization Techniques,Materials Science,Big Data Analysis,E-Commerce,Business Analytics:2.0,1.5,1.0,2.0,1.5,2.5
+12230020:Embedded Systems,Biomedical Engineering,Marketing Strategies,Optimization Techniques,Computer Networks,Translation Studies:4.5,4.5,2.0,2.0,3.5,4.0
+12230021:Quantum Computing,Supply Chain Management,Blockchain Technology,Geotechnical Engineering,Korean Film and Media,Korean Traditions:2.0,1.0,4.0,4.5,4.5,2.0
+12230022:Korean Religion,Digital Marketing,Korean Ceramics,Engineering Economics,Interpretation Skills,Consumer Behavior:3.5,4.5,2.0,1.5,1.5,4.0
+12230023:Korean Literature,Sustainability in Business,Business Law,Engineering Mathematics,Control Systems,Advanced Programming:2.0,2.0,1.5,4.5,2.0,2.5
+12230024:Korean Proverbs and Idioms,Advanced Programming,Business Communication,Korean Theatre,Venture Capital,Software Engineering:4.0,2.0,3.5,1.0,2.0,4.0
+12230025:Korean Reading and Comprehension,Data Structures,Control Systems,Corporate Governance,Advanced Excel for Business,Korean Traditions:4.5,3.5,3.5,1.5,3.0,4.5
+12230026:Introduction to Hangeul,Advanced Programming,Circuit Analysis,Modern Korean Literature,Software Engineering,Financial Accounting:3.0,4.0,1.0,1.0,2.0,1.0
+12230027:Sustainability in Business,Software Engineering,Korean Urban Culture,History of Hangeul,Operations Management,Crisis Management:2.0,2.5,4.0,2.5,1.5,2.0
+12230028:Engineering Economics,Intermediate Korean,Korean Poetry,Crisis Management,Introduction to Engineering,Korean Literature:2.0,3.5,4.5,4.0,4.5,2.0
+12230029:Logistics Management,Distributed Systems,Operations Management,Korean Theatre,Strategic Management,Korean Listening and Speaking:4.5,1.0,2.5,1.5,2.5,1.0
+12230030:Retail Management,North and South Korean Relations,Korean Urban Culture,Blockchain Technology,Control Systems,Project Management:4.0,1.0,4.5,1.5,1.5,4.0
+12230031:Organizational Behavior,Automobile Engineering,Korean Folklore,History of Hangeul,Materials Science,Korean Philosophy:1.0,4.5,2.0,3.0,1.5,1.5
+12230032:Mechatronics,Customer Relationship Management,International Trade,Contemporary Issues in Korea,Optimization Techniques,Business Ethics:3.0,2.5,1.0,4.0,1.5,1.0
+12230033:Financial Accounting,Advanced Korean,Economic Policy,Korean Arts and Crafts,Business Analytics,Crisis Management:1.0,4.5,4.0,2.0,1.5,1.5
+12230034:Control Systems,Robotics,Startup Incubation,Modern Korean History,Business Law,Introduction to Engineering:1.0,3.5,1.0,1.5,2.5,4.0
+12230035:Digital Logic Design,Business Ethics,Korean Poetry,Economic Policy,Supply Chain Management,Data Structures:2.5,2.5,2.0,4.0,1.5,4.0
+12230036:Financial Accounting,Mechanical Vibrations,Control Systems,Risk Management,Contemporary Issues in Korea,Small Business Management:4.5,4.5,2.5,4.5,4.5,3.0
+12230037:Environmental Engineering,Business Law,Engineering Physics,Concrete Design,Power Systems,Real Estate Business:1.0,4.5,2.5,1.0,3.0,3.5
+12230038:Startup Incubation,Corporate Governance,Advanced Programming,Human Resources Management,Brand Management,Teaching Korean as a Second Language:3.5,1.5,2.0,2.0,3.5,2.0
+12230039:Sustainability in Business,Innovation in Business,Engineering Mechanics,Engineering Economics,Strategic Management,Korean Proverbs and Idioms:1.0,4.5,4.0,2.5,1.0,2.5
+12230040:Environmental Engineering,Intermediate Korean,Engineering Mechanics,Korean Technology Culture,Korean-English Translation,Interpretation Skills:2.0,2.5,2.5,3.0,1.5,3.5
+12230041:Interpretation Skills,Korean Theatre,Optimization Techniques,Advanced Excel for Business,Leadership Development,History of Hangeul:4.5,4.5,3.0,4.0,4.5,4.0
+12230042:Korean Poetry,Small Business Management,Korean Diaspora,Translation Studies,Advanced Programming,Brand Management:4.5,2.5,3.0,1.0,4.0,2.0
+12230043:Teaching Korean as a Second Language,Machine Learning,Financial Accounting,Korean Traditions,K-Pop and Korean Wave,North and South Korean Relations:1.0,3.5,4.5,2.0,3.5,3.0
+12230044:Korean Calligraphy,Translation Studies,Database Systems,Optimization Techniques,Software Engineering,Korean Economic History:3.0,4.0,1.5,2.5,4.0,4.5
+12230045:Korean Arts and Crafts,Korean Traditions,Engineering Physics,Korean Political History,Korean Film and Media,Sustainability in Business:3.0,1.0,3.0,2.0,1.0,4.5
+12230046:Engineering Physics,Transportation Engineering,Crisis Management,Korean Film and Media,Korean History,Microprocessor Applications:4.5,3.0,2.5,3.0,1.5,2.0
+12230047:Digital Logic Design,Mechatronics,Korean Calligraphy,Translation Studies,Strategic Management,Corporate Social Responsibility:1.0,3.0,3.0,1.5,3.0,1.0
+12230048:Engineering Ethics,Negotiation and Conflict Management,Big Data Analysis,Biomedical Engineering,Advanced Excel for Business,Korean Religion:3.5,3.0,2.5,4.5,2.5,4.5
+12230049:Korean Calligraphy,Renewable Energy Systems,Korean Theatre,Managerial Accounting,Engineering Mechanics,Translation Studies:1.0,2.0,2.0,1.0,1.5,1.5
+12230050:Corporate Social Responsibility,Korean Language Basics,Korean Traditions,Startup Incubation,Korean Linguistics,Economic Policy:1.5,1.0,3.5,3.0,2.0,4.5
+12230051:Human Resources Management,K-Pop and Korean Wave,Korean Urban Culture,Computer Networks,Engineering Economics,Numerical Methods:4.0,4.0,1.0,2.0,2.5,1.0
+12230052:Heat Transfer,History of Hangeul,Performance Management,Biomedical Engineering,Data-Driven Decision Making,Intermediate Korean:4.0,2.5,2.0,2.0,3.5,3.0
+12230053:Brand Management,Crisis Management,Data Structures,Digital Logic Design,Korean Folklore,Concrete Design:3.5,2.5,4.0,1.0,3.0,2.0
+12230054:Power Systems,Interpretation Skills,Startup Incubation,Korean Linguistics,Engineering Physics,Organizational Behavior:3.5,2.0,1.0,2.0,4.0,2.0
+12230055:Korean Popular Culture,Circuit Analysis,Startup Incubation,Robotics,Korean Linguistics,Business Ethics:1.5,2.5,3.0,3.0,1.0,2.5
+12230056:Korean Political History,Corporate Social Responsibility,Database Systems,Machine Learning,Introduction to Hangeul,Venture Capital:3.5,1.5,4.0,4.5,1.5,3.5
+12230057:Corporate Social Responsibility,Nanotechnology,Logistics Management,Korean Language Basics,History of Hangeul,Introduction to Hangeul:4.0,3.5,4.5,1.0,2.5,4.0
+12230058:Signal Processing,Machine Learning,Korean Diaspora,Innovation in Business,Engineering Economics,Circuit Analysis:1.5,1.5,3.0,2.0,3.0,2.0
+12230059:Strategic Management,Korean Urban Culture,Robotics,Heat Transfer,Managerial Accounting,Korean Diaspora:3.5,4.5,1.0,2.0,3.5,4.0
+12230060:Contemporary Issues in Korea,Brand Management,Korean Technology Culture,Korean Poetry,Corporate Governance,Introduction to Engineering:1.0,2.0,2.5,3.5,4.5,1.5
+12230061:Korean Calligraphy,Korean Reading and Comprehension,Digital Marketing,Thermodynamics,Logistics Management,Advanced Programming:2.5,1.0,3.5,2.0,4.0,2.5
+12230062:Environmental Engineering,North and South Korean Relations,Business Analytics,Korean Theatre,Contemporary Issues in Korea,Heat Transfer:3.5,1.0,4.0,4.0,3.0,3.5
+12230063:Strategic Management,Microprocessor Applications,Leadership Development,Korean Poetry,Managerial Accounting,Mechatronics:3.0,4.5,4.5,2.0,4.5,4.0
+12230064:Korean Film and Media,Digital Logic Design,Distributed Systems,Circuit Analysis,Power Systems,Renewable Energy Applications:1.0,2.0,3.5,3.0,2.5,1.0
+12230065:Translation Studies,Software Engineering,Organizational Behavior,Korean Reading and Comprehension,Korean Literature,Concrete Design:1.0,4.0,4.0,2.5,3.5,1.5
+12230066:Market Research,Corporate Governance,Machine Learning,Korean Diaspora,Korean Economic History,Negotiation and Conflict Management:1.5,1.0,3.0,2.0,4.0,2.5
+12230067:Renewable Energy Applications,Managerial Accounting,Engineering Mathematics,Korean Proverbs and Idioms,Database Systems,Economic Policy:3.5,3.5,2.5,3.0,1.5,3.0
+12230068:International Business,Computer Networks,Korean History,Korean Traditions,Marketing Strategies,Advanced Korean:1.0,2.5,1.0,3.0,2.5,4.0
+12230069:Teaching Korean as a Second Language,Korean Linguistics,Signal Processing,Korean War and Its Aftermath,K-Pop and Korean Wave,Digital Logic Design:1.0,4.0,1.0,2.5,3.0,3.5
+12230070:Transportation Engineering,Project Management,International Business,Materials Science,Business Communication,Performance Management:2.5,4.5,4.0,4.5,3.5,4.5
+12230071:Circuit Analysis,Korean Political History,Data Structures,Supply Chain Management,Korean Diaspora,Contemporary Issues in Korea:4.0,4.5,4.5,2.0,4.0,1.0
+12230072:Logistics Management,Korean Linguistics,Innovation in Business,Korean Proverbs and Idioms,Investment Analysis,Data Structures:2.5,4.5,1.0,4.0,3.0,2.0
+12230073:Korean Poetry,Structural Analysis,Korean Folklore,Korean Listening and Speaking,Korean Traditions,Managerial Accounting:1.0,2.0,3.5,1.5,4.5,2.5
+12230074:Teaching Korean as a Second Language,Distributed Systems,Korean Proverbs and Idioms,Microprocessor Applications,Managerial Accounting,Korean Urban Culture:2.5,4.0,1.5,2.0,3.5,4.0
+12230075:Environmental Engineering,Korean Traditional Music,Database Systems,Korean History,Korean War and Its Aftermath,Business Communication:4.5,4.5,2.0,2.0,3.0,3.0
+12230076:Biomedical Engineering,Small Business Management,Circuit Analysis,Data Structures,Control Systems,Advanced Korean:1.5,4.0,3.5,3.5,4.0,1.0
+12230077:Korean Traditions,Quantum Computing,Numerical Methods,Contemporary Issues in Korea,Fluid Mechanics,Renewable Energy Systems:3.5,4.5,2.5,1.0,1.0,2.0
+12230078:Control Systems,Corporate Social Responsibility,Korean Theatre,Big Data Analysis,Introduction to Engineering,Korean-English Translation:1.5,1.0,1.0,2.0,1.0,4.5
+12230079:Korean Reading and Comprehension,Renewable Energy Applications,Computer Networks,Logistics Management,Thermodynamics,Korean Literature:3.0,3.5,2.0,3.0,2.5,3.5
+12230080:Transportation Engineering,Thermodynamics,Engineering Ethics,Korean Calligraphy,International Trade,Korean Political History:3.5,1.0,1.5,1.0,3.5,4.0
+12230081:Real Estate Business,Introduction to Hangeul,Project Management,Korean Economic History,Korean Linguistics,Market Research:1.5,4.0,1.5,2.5,2.0,2.5
+12230082:Machine Learning,Market Research,Korean Traditional Music,K-Pop and Korean Wave,Sales Management,Project Management:3.5,2.0,3.0,3.0,3.0,3.5
+12230083:Digital Marketing,Supply Chain Management,Korean Diaspora,Machine Learning,Data-Driven Decision Making,Korean Listening and Speaking:1.5,3.0,4.5,1.5,3.0,1.0
+12230084:Korean Traditional Music,International Trade,Machine Learning,Supply Chain Management,Renewable Energy Systems,Engineering Mechanics:1.0,4.0,4.5,2.0,4.0,1.0
+12230085:Project Management,Operations Management,Microprocessor Applications,Signal Processing,Risk Management,Korean War and Its Aftermath:1.0,3.5,3.5,3.0,4.0,4.0
+12230086:Mechatronics,Business Communication,Automobile Engineering,Advanced Excel for Business,Financial Accounting,Corporate Social Responsibility:2.5,4.0,4.0,4.0,2.5,3.0
+12230087:Korean Popular Culture,Thermodynamics,Korean Women Studies,Korean Political History,Marketing Strategies,Contemporary Issues in Korea:1.0,4.5,1.5,1.0,3.5,3.0
+12230088:Renewable Energy Applications,Performance Management,Machine Learning,Crisis Management,Biomedical Engineering,North and South Korean Relations:3.5,2.5,1.0,1.0,2.5,2.5
+12230089:Renewable Energy Systems,Korean Urban Culture,Computer Networks,Advanced Korean,Engineering Ethics,Sustainability in Business:2.0,1.5,1.5,4.5,3.0,2.5
+12240000:Signal Processing,Market Research,Artificial Intelligence,Fluid Mechanics,Emerging Markets,Mechatronics:1.5,3.5,2.0,4.0,2.0,2.5
+12240001:Korean Women Studies,Logistics Management,Business Analytics,Environmental Engineering,Supply Chain Management,Brand Management:1.0,4.0,3.5,1.0,1.0,2.0
+12240002:Korean Religion,Environmental Engineering,Startup Incubation,Korean-English Translation,Concrete Design,Automobile Engineering:3.5,3.5,1.0,4.5,2.5,2.0
+12240003:Korean Economic History,History of Hangeul,Intermediate Korean,K-Pop and Korean Wave,Microprocessor Applications,Innovation in Business:2.5,4.0,2.5,2.0,3.0,2.0
+12240004:Environmental Engineering,Corporate Governance,Market Research,Korean Women Studies,Korean Listening and Speaking,North and South Korean Relations:4.5,1.5,3.0,3.0,2.5,4.5
+12240005:Digital Logic Design,Engineering Mechanics,Control Systems,Investment Analysis,Korean History,Quantum Computing:4.5,2.0,1.5,2.0,2.0,1.5
+12240006:Materials Science,Renewable Energy Applications,Concrete Design,Marketing Strategies,K-Pop and Korean Wave,Korean Grammar:2.0,2.0,1.0,3.0,3.0,2.5
+12240007:Quantum Computing,Advanced Programming,Korean War and Its Aftermath,North and South Korean Relations,Brand Management,Korean Poetry:1.5,3.0,4.0,2.0,3.0,4.0
+12240008:Financial Accounting,Business Law,Korean Listening and Speaking,Korean Political History,Project Management,Concrete Design:4.5,2.5,4.5,3.5,3.5,2.5
+12240009:Engineering Mathematics,Korean Traditions,Business Law,Korean Food and Culture,Korean Economic History,Investment Analysis:2.5,3.5,4.5,1.5,2.0,1.5
+12240010:Managerial Accounting,History of Hangeul,Risk Management,Aerodynamics,Korean War and Its Aftermath,Korean Folklore:1.0,3.0,1.5,2.0,1.5,1.0
+12240011:Korean Technology Culture,Engineering Physics,Corporate Social Responsibility,Korean Linguistics,Engineering Economics,Korean Drama Studies:4.0,4.0,2.5,1.5,4.0,2.0
+12240012:Digital Marketing,Managerial Accounting,Small Business Management,Logistics Management,Korean Philosophy,Advanced Korean:3.0,3.0,1.0,1.0,1.5,4.5
+12240013:Materials Science,Korean Grammar,Startup Incubation,Korean Film and Media,Korean History,Korean Religion:3.0,4.0,1.5,2.0,3.0,2.5
+12240014:Negotiation and Conflict Management,Machine Learning,Fluid Mechanics,Engineering Physics,Operations Management,Emerging Markets:2.5,2.0,2.0,3.0,3.0,3.5
+12240015:Machine Learning,Organizational Behavior,Principles of Management,Business Ethics,Entrepreneurship,Korean Culture and Society:1.0,1.0,4.0,3.5,4.0,2.5
+12240016:Transportation Engineering,Korean Film and Media,Korean Urban Culture,Concrete Design,Brand Management,Business Communication:3.0,1.5,2.5,2.5,2.0,1.0
+12240017:Distributed Systems,Engineering Mechanics,Investment Analysis,Heat Transfer,Entrepreneurship,Software Engineering:2.0,3.0,2.0,3.5,1.0,3.5
+12240018:Strategic Management,Korean Proverbs and Idioms,Venture Capital,Korean Technology Culture,Market Research,Robotics:2.0,4.5,3.5,1.0,3.5,2.0
+12240019:Negotiation and Conflict Management,Korean Reading and Comprehension,Quantum Computing,International Trade,Economic Policy,Engineering Ethics:2.0,4.5,1.5,1.0,1.0,2.5
+12240020:Renewable Energy Systems,Corporate Social Responsibility,Intermediate Korean,Korean Political History,Korean Theatre,Small Business Management:4.5,4.5,2.5,4.5,3.5,3.5
+12240021:Startup Incubation,Korean Popular Culture,Intermediate Korean,Modern Korean History,Korean Literature,Korean Food and Culture:2.0,3.0,2.5,2.0,1.5,1.0
+12240022:Consumer Behavior,Korean Folklore,Korean Political History,Machine Learning,History of Hangeul,Crisis Management:2.5,4.5,2.0,1.5,2.0,4.5
+12240023:Supply Chain Management,Korean Women Studies,Korean-English Translation,History of Hangeul,Innovation in Business,Microprocessor Applications:4.5,3.5,2.0,4.5,3.5,2.5
+12240024:Korean Folklore,Market Research,History of Hangeul,Logistics Management,Numerical Methods,Structural Analysis:4.0,4.0,1.0,4.5,1.5,3.5
+12240025:Business Communication,Korean Film and Media,Supply Chain Management,Environmental Engineering,Korean Food and Culture,Performance Management:1.0,2.0,2.0,2.5,2.0,1.5
+12240026:Project Management,Blockchain Technology,Korean Traditional Music,Computer Networks,Entrepreneurship,Fluid Mechanics:4.0,2.5,3.0,2.0,1.5,2.0
+12240027:International Trade,Business Communication,Concrete Design,Korean Arts and Crafts,Power Systems,Corporate Social Responsibility:4.5,4.5,2.0,2.5,1.0,3.5
+12240028:Korean War and Its Aftermath,Small Business Management,Korean Culture and Society,Software Engineering,International Business,Korean Poetry:2.5,2.5,1.5,4.5,3.5,3.5
+12240029:Advanced Korean,Korean Film and Media,Korean Culture and Society,International Trade,Data-Driven Decision Making,Korean Proverbs and Idioms:4.5,1.0,4.5,1.5,4.5,2.5
+12240030:Engineering Mechanics,E-Commerce,Biomedical Engineering,Korean Urban Culture,Startup Incubation,Big Data Analysis:4.0,4.0,3.0,4.5,1.5,2.5
+12240031:Korean Ceramics,Korean Literature,Digital Logic Design,Project Management,Economic Policy,Korean Political History:3.0,2.5,3.0,4.5,2.0,4.5
+12240032:Structural Analysis,Korean Technology Culture,Customer Relationship Management,Mechanical Vibrations,Mechatronics,Principles of Management:2.0,4.0,2.5,2.0,3.0,1.5
+12240033:Korean Traditional Music,Materials Science,Economic Policy,Numerical Methods,Software Engineering,Digital Logic Design:2.5,4.0,4.5,2.5,2.0,4.0
+12240034:Blockchain Technology,Korean Drama Studies,Fluid Mechanics,Mechatronics,Database Systems,Circuit Analysis:4.0,2.5,4.5,4.5,3.5,4.5
+12240035:Human Resources Management,Blockchain Technology,Korean-English Translation,Managerial Accounting,Korean Culture and Society,History of Hangeul:3.0,1.0,2.0,3.0,3.0,2.0
+12240036:Business Law,Korean Philosophy,Artificial Intelligence,Engineering Mechanics,Korean Urban Culture,Market Research:1.5,2.5,4.5,2.0,4.0,3.5
+12240037:Korean War and Its Aftermath,Small Business Management,Brand Management,Machine Learning,Embedded Systems,Transportation Engineering:1.5,4.0,4.5,2.0,1.5,4.5
+12240038:Microprocessor Applications,Performance Management,Korean-English Translation,Crisis Management,Machine Learning,Thermodynamics:3.5,2.5,4.5,3.0,3.5,3.5
+12240039:Customer Relationship Management,Crisis Management,Leadership Development,Korean Women Studies,Risk Management,Korean Political History:1.0,1.0,2.5,2.5,1.5,3.5
+12240040:Advanced Programming,Power Systems,Korean Grammar,Advanced Korean,Microprocessor Applications,Geotechnical Engineering:1.5,2.5,4.5,1.0,4.5,1.0
+12240041:Distributed Systems,Biomedical Engineering,North and South Korean Relations,Fluid Mechanics,Korean Philosophy,Structural Analysis:3.5,4.0,4.0,1.5,1.0,4.5
+12240042:Korean Literature,Korean Linguistics,Teaching Korean as a Second Language,Circuit Analysis,Introduction to Hangeul,Engineering Mechanics:1.0,3.5,4.0,2.5,3.0,3.5
+12240043:Intermediate Korean,Korean Traditions,Heat Transfer,Teaching Korean as a Second Language,Logistics Management,Korean Grammar:2.0,3.0,2.5,4.0,1.5,4.0
+12240044:Korean War and Its Aftermath,Korean Poetry,Korean Popular Culture,Korean Reading and Comprehension,Venture Capital,Engineering Ethics:1.5,1.0,2.5,2.5,2.0,4.0
+12240045:Market Research,Korean Drama Studies,Business Analytics,Machine Learning,Korean Urban Culture,Structural Analysis:4.5,4.0,2.0,2.5,3.5,4.0
+12240046:Nanotechnology,Renewable Energy Applications,Crisis Management,International Trade,Korean Grammar,Quantum Computing:3.5,2.0,3.0,1.0,1.5,1.0
+12240047:Business Ethics,Aerodynamics,Economic Policy,Contemporary Issues in Korea,Power Systems,Signal Processing:2.5,1.0,4.0,4.0,1.5,1.0
+12240048:North and South Korean Relations,Engineering Economics,Principles of Management,Machine Learning,Leadership Development,K-Pop and Korean Wave:1.0,3.5,2.5,1.5,1.5,2.5
+12240049:Numerical Methods,Economic Policy,Logistics Management,Teaching Korean as a Second Language,Concrete Design,International Business:3.0,2.5,1.5,4.5,4.5,3.0
+12240050:Engineering Mathematics,History of Hangeul,Big Data Analysis,Korean Ceramics,Korean Folklore,Korean Popular Culture:2.0,2.5,3.5,2.0,4.0,4.5
+12240051:Customer Relationship Management,Embedded Systems,Machine Learning,International Trade,Consumer Behavior,Korean Culture and Society:2.5,3.5,4.5,1.5,1.0,3.0
+12240052:Quantum Computing,Korean Traditions,Geotechnical Engineering,Introduction to Engineering,Entrepreneurship,Korean Religion:3.0,3.5,4.0,3.0,3.0,1.5
+12240053:Engineering Mathematics,Venture Capital,Principles of Management,Distributed Systems,Control Systems,Korean Film and Media:3.5,4.5,4.5,4.0,1.0,2.0
+12240054:Advanced Programming,K-Pop and Korean Wave,Engineering Mathematics,Materials Science,Geotechnical Engineering,Korean Language Basics:3.5,2.0,4.0,3.0,4.0,1.5
+12240055:Financial Accounting,Numerical Methods,Logistics Management,Computer Networks,Data Structures,Korean Language Basics:2.5,3.0,1.5,1.5,1.5,3.0
+12240056:Mechanical Vibrations,Modern Korean Literature,Mechatronics,Strategic Management,Organizational Behavior,Korean War and Its Aftermath:4.0,4.0,3.5,4.5,2.5,2.5
+12240057:Power Systems,Business Ethics,Robotics,Renewable Energy Applications,Real Estate Business,Risk Management:1.5,4.0,4.0,4.5,4.5,2.0
+12240058:Robotics,Interpretation Skills,Mechatronics,Intermediate Korean,Engineering Mathematics,Crisis Management:2.5,4.0,3.0,1.0,2.5,1.5
+12240059:Emerging Markets,Korean Culture and Society,Business Ethics,Korean Proverbs and Idioms,Concrete Design,Korean Grammar:2.0,1.5,1.5,2.0,1.0,4.0
+12240060:Strategic Management,Microprocessor Applications,Optimization Techniques,Entrepreneurship,Nanotechnology,Korean Proverbs and Idioms:4.5,2.0,1.0,1.0,3.5,1.0
+12240061:Retail Management,Emerging Markets,Korean Food and Culture,Artificial Intelligence,Korean Language Basics,Market Research:4.5,3.5,4.0,4.0,3.0,2.5
+12240062:Microprocessor Applications,K-Pop and Korean Wave,Korean Reading and Comprehension,Korean War and Its Aftermath,Translation Studies,Sustainability in Business:2.5,1.0,1.5,2.5,1.5,1.0
+12240063:Advanced Programming,Korean Women Studies,Data Structures,Korean Folklore,Logistics Management,Korean Culture and Society:1.0,4.0,3.0,3.5,4.5,2.0
+12240064:Korean Film and Media,Advanced Excel for Business,Principles of Management,Automobile Engineering,Data Structures,Korean Political History:4.5,4.5,1.0,2.0,4.5,2.0
+12240065:Korean Popular Culture,Customer Relationship Management,Korean Poetry,Computer Networks,Market Research,Microprocessor Applications:2.0,2.5,2.5,3.0,2.5,1.5
+12240066:E-Commerce,Advanced Programming,Data Structures,International Business,Materials Science,Korean Traditions:3.0,1.0,3.0,4.5,1.0,4.5
+12240067:Korean Culture and Society,Korean Religion,Contemporary Issues in Korea,Market Research,Korean Food and Culture,Project Management:4.0,4.5,4.0,2.0,1.5,2.5
+12240068:Corporate Governance,Project Management,Thermodynamics,Translation Studies,Robotics,Leadership Development:2.5,3.0,3.5,1.0,3.0,1.5
+12240069:Korean Calligraphy,Market Research,Corporate Governance,Retail Management,Advanced Korean,Machine Learning:2.0,3.5,4.5,4.5,1.0,1.5
+12240070:Operations Management,Engineering Ethics,Retail Management,Introduction to Hangeul,Korean Traditions,Organizational Behavior:3.0,1.5,3.0,3.5,3.5,1.0
+12240071:Korean Listening and Speaking,Modern Korean Literature,Korean Calligraphy,Modern Korean History,K-Pop and Korean Wave,Korean Theatre:4.5,3.0,1.5,4.5,1.0,2.0
+12240072:Venture Capital,Geotechnical Engineering,Entrepreneurship,Mechatronics,International Business,Korean Calligraphy:1.5,2.5,2.0,4.5,4.5,1.5
+12240073:Korean Calligraphy,Translation Studies,Advanced Programming,Crisis Management,Data-Driven Decision Making,Korean War and Its Aftermath:4.0,1.0,3.0,1.0,1.5,1.0
+12240074:Economic Policy,Concrete Design,Business Law,Principles of Management,Data Structures,Korean Theatre:3.0,1.0,1.0,2.5,2.5,1.5
+12240075:Organizational Behavior,Market Research,Control Systems,Korean-English Translation,Korean Drama Studies,Aerodynamics:2.0,4.5,1.5,2.5,2.5,1.5
+12240076:Financial Accounting,Korean Traditional Music,Corporate Governance,Biomedical Engineering,Korean-English Translation,Business Communication:4.0,4.5,3.5,3.0,1.5,2.0
+12240077:Optimization Techniques,Korean War and Its Aftermath,Economic Policy,Korean Religion,Business Ethics,Negotiation and Conflict Management:1.5,2.0,4.5,2.5,1.5,1.5
+12240078:Korean Economic History,Supply Chain Management,Korean Technology Culture,Korean Listening and Speaking,Innovation in Business,Market Research:4.5,1.5,2.5,1.0,1.0,3.5
+12240079:Data Structures,Korean Culture and Society,Korean Folklore,Introduction to Engineering,Renewable Energy Applications,Negotiation and Conflict Management:2.5,1.5,3.0,3.0,1.5,3.5
+12240080:Korean Proverbs and Idioms,Small Business Management,Biomedical Engineering,Environmental Engineering,Corporate Social Responsibility,Blockchain Technology:4.0,1.5,2.0,2.0,4.0,3.0
+12240081:Software Engineering,Korean Linguistics,Korean Theatre,Business Communication,Performance Management,Machine Learning:2.0,2.5,2.0,2.5,1.0,1.0
+12240082:Materials Science,Korean Technology Culture,Small Business Management,Project Management,Circuit Analysis,Power Systems:3.5,3.0,4.5,4.5,1.0,3.0
+12240083:Negotiation and Conflict Management,Korean Technology Culture,Big Data Analysis,Sustainability in Business,Nanotechnology,Korean Philosophy:2.5,1.5,1.0,2.5,2.5,3.5
+12240084:Introduction to Hangeul,Nanotechnology,Power Systems,Heat Transfer,Aerodynamics,Corporate Social Responsibility:2.5,2.0,1.5,1.0,2.5,3.5
+12240085:Business Analytics,Optimization Techniques,Korean Arts and Crafts,Advanced Excel for Business,Human Resources Management,Korean Reading and Comprehension:2.0,2.0,2.0,4.0,3.0,2.0
+12240086:Modern Korean History,Risk Management,Advanced Korean,Transportation Engineering,Sustainability in Business,Business Analytics:2.5,2.0,4.0,1.0,3.0,3.5
+12240087:Sustainability in Business,Korean Religion,Emerging Markets,Quantum Computing,Korean Urban Culture,Korean Literature:3.5,3.0,1.0,1.0,1.0,3.5
+12240088:Entrepreneurship,Project Management,Engineering Physics,Korean Political History,Consumer Behavior,Korean Dialects:2.5,1.5,2.0,2.0,1.5,2.0
+12240089:Translation Studies,Advanced Korean,Sustainability in Business,Renewable Energy Systems,Korean Diaspora,Strategic Management:2.0,1.5,4.5,4.0,3.0,4.5
+12240090:Automobile Engineering,Korean History,Korean Listening and Speaking,Environmental Engineering,Korean Religion,Structural Analysis:2.5,1.5,4.5,2.5,4.0,4.0
+12240091:Market Research,Optimization Techniques,Korean War and Its Aftermath,North and South Korean Relations,Advanced Excel for Business,K-Pop and Korean Wave:3.0,3.0,2.5,4.0,2.5,1.0
+12240092:Managerial Accounting,Korean Listening and Speaking,Korean-English Translation,Materials Science,E-Commerce,Performance Management:2.0,1.0,1.0,4.0,1.0,3.5
+12240093:History of Hangeul,Big Data Analysis,Korean Technology Culture,Startup Incubation,Software Engineering,Managerial Accounting:2.5,4.5,4.0,2.0,4.5,2.0
+12240094:Korean Folklore,Nanotechnology,Mechanical Vibrations,Advanced Korean,Embedded Systems,K-Pop and Korean Wave:0.0,0.0,0.0,0.0,0.0,0.0

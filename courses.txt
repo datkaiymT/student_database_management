@@ -1,0 +1,132 @@
+Principles of Management,IBT4917
+Marketing Strategies,IBT3566
+Business Ethics,IBT6254
+Operations Management,IBT9623
+Organizational Behavior,IBT7821
+International Business,IBT5629
+Entrepreneurship,IBT2841
+Supply Chain Management,IBT1964
+Digital Marketing,IBT1442
+Business Law,IBT6284
+Strategic Management,IBT3185
+Leadership Development,IBT2587
+Financial Accounting,IBT6304
+Managerial Accounting,IBT7177
+Human Resources Management,IBT5300
+Business Analytics,IBT6298
+E-Commerce,IBT8845
+Negotiation and Conflict Management,IBT4730
+Corporate Social Responsibility,IBT2984
+Investment Analysis,IBT4457
+Project Management,IBT8285
+Risk Management,IBT2920
+Consumer Behavior,IBT4046
+Brand Management,IBT9477
+Sales Management,IBT1246
+Market Research,IBT4296
+Advanced Excel for Business,IBT3354
+Economic Policy,IBT8812
+Small Business Management,IBT6807
+Venture Capital,IBT6396
+Startup Incubation,IBT8352
+International Trade,IBT9635
+Sustainability in Business,IBT7696
+Retail Management,IBT6033
+Customer Relationship Management,IBT7325
+Logistics Management,IBT7605
+Business Communication,IBT1988
+Crisis Management,IBT5886
+Performance Management,IBT7452
+Emerging Markets,IBT7033
+Corporate Governance,IBT6790
+Innovation in Business,IBT9949
+Data-Driven Decision Making,IBT8316
+Real Estate Business,IBT6895
+Introduction to Engineering,ISE5999
+Engineering Mathematics,ISE6079
+Engineering Physics,ISE5089
+Circuit Analysis,ISE2135
+Data Structures,ISE9051
+Digital Logic Design,ISE5152
+Embedded Systems,ISE3411
+Computer Networks,ISE7733
+Thermodynamics,ISE8631
+Fluid Mechanics,ISE5742
+Materials Science,ISE4948
+Engineering Mechanics,ISE2213
+Heat Transfer,ISE7274
+Signal Processing,ISE5998
+Power Systems,ISE8742
+Software Engineering,ISE9304
+Machine Learning,ISE3132
+Control Systems,ISE7963
+Robotics,ISE9054
+Structural Analysis,ISE9537
+Environmental Engineering,ISE2247
+Geotechnical Engineering,ISE9474
+Transportation Engineering,ISE3816
+Concrete Design,ISE8773
+Numerical Methods,ISE4384
+Advanced Programming,ISE6951
+Artificial Intelligence,ISE5914
+Blockchain Technology,ISE6257
+Database Systems,ISE8918
+Mechanical Vibrations,ISE1895
+Renewable Energy Systems,ISE5138
+Optimization Techniques,ISE6107
+Microprocessor Applications,ISE5246
+Big Data Analysis,ISE7965
+Biomedical Engineering,ISE4961
+Aerodynamics,ISE2407
+Automobile Engineering,ISE6323
+Mechatronics,ISE6575
+Distributed Systems,ISE9771
+Nanotechnology,ISE1314
+Quantum Computing,ISE9129
+Engineering Ethics,ISE6149
+Engineering Economics,ISE6707
+Renewable Energy Applications,ISE9999
+Korean Language Basics,KLC9827
+Intermediate Korean,KLC1710
+Advanced Korean,KLC3328
+Korean Grammar,KLC5623
+Korean Listening and Speaking,KLC6913
+Korean Reading and Comprehension,KLC3209
+Korean Culture and Society,KLC3691
+Korean History,KLC3598
+Korean Literature,KLC7087
+Korean Folklore,KLC4636
+Korean Popular Culture,KLC7054
+Korean Film and Media,KLC2252
+Korean Traditions,KLC5038
+Korean Arts and Crafts,KLC9863
+Modern Korean History,KLC4191
+Korean Religion,KLC5427
+Korean Philosophy,KLC3485
+Korean Linguistics,KLC7223
+Teaching Korean as a Second Language,KLC2191
+Translation Studies,KLC3702
+Korean-English Translation,KLC7471
+Interpretation Skills,KLC9112
+Korean Dialects,KLC9953
+Korean Calligraphy,KLC1446
+History of Hangeul,KLC4020
+Korean Political History,KLC8635
+Korean Food and Culture,KLC2295
+Korean Traditional Music,KLC7513
+K-Pop and Korean Wave,KLC4751
+Korean Diaspora,KLC7769
+Korean Economic History,KLC9928
+Introduction to Hangeul,KLC7445
+Modern Korean Literature,KLC9461
+Korean Poetry,KLC4768
+Korean Urban Culture,KLC2635
+Korean Proverbs and Idioms,KLC7539
+Korean Drama Studies,KLC9419
+Korean Women Studies,KLC5486
+Korean Theatre,KLC9964
+Korean Ceramics,KLC2875
+North and South Korean Relations,KLC3121
+Korean War and Its Aftermath,KLC8952
+Korean Technology Culture,KLC5654
+Contemporary Issues in Korea,KLC2175
