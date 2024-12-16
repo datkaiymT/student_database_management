@@ -2,8 +2,6 @@
 
 This **Student Management System (SMS)** is a robust command-line application written in C that manages student, professor, and course information efficiently. It is designed with separate interfaces and functionalities for **Administrators**, **Professors**, and **Students**, ensuring that each user type has access to the tools and data they need.
 
-**Note:** This project is closed-source in terms of contributions. **Contributions are not welcomed.** Any unsolicited pull requests, issues, or feature requests will be closed without consideration.
-
 ---
 
 ## Key Features
